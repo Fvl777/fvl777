@@ -1,0 +1,1539 @@
+{
+  "version": "1.8.0",
+  "export_type": "topic_bundle",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "name": "General Intelligence (GI)",
+      "slug": "general-intelligence-gi",
+      "parent": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 1001,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>In the following question, select the related word from the given alternatives: </div><div>Jurisprudence : Law :: Epistemology : ?</div>",
+      "post_title": "<div>In the following question, select the related word from the given alternatives: </div><div>Jurisprudence : Law :: Epistemology : ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Reality",
+            "image": ""
+          },
+          {
+            "text": "Logic",
+            "image": ""
+          },
+          {
+            "text": "Knowledge",
+            "image": ""
+          },
+          {
+            "text": "Ethics",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: Knowledge</strong></p><p>This is a word-meaning analogy based on fields of study. Jurisprudence is the academic and philosophical study of Law. Similarly, Epistemology is the philosophical study of Knowledge.</p><ul><li><strong>Extra Fact:</strong> The word Epistemology comes from the Greek words 'episteme' (meaning knowledge) and 'logos' (meaning study or discourse)!</li></ul>",
+        "_aimcq_title_hi": "<div>निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित शब्द का चयन करें: </div><div>न्यायशास्त्र : कानून :: ज्ञानमीमांसा : ?</div>",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित शब्द का चयन करें: </div><div>न्यायशास्त्र : कानून :: ज्ञानमीमांसा : ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "वास्तविकता",
+            "image": ""
+          },
+          {
+            "text": "तर्क",
+            "image": ""
+          },
+          {
+            "text": "ज्ञान",
+            "image": ""
+          },
+          {
+            "text": "नीति",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: ज्ञान (Knowledge)</strong></p><p>यह अध्ययन के क्षेत्रों पर आधारित एक सादृश्य (Analogy) है। जिस प्रकार न्यायशास्त्र (Jurisprudence) कानून का शैक्षणिक और दार्शनिक अध्ययन है, उसी प्रकार ज्ञानमीमांसा (Epistemology) 'ज्ञान' (Knowledge) का दार्शनिक अध्ययन है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> ज्ञानमीमांसा (Epistemology) शब्द ग्रीक शब्द 'episteme' (जिसका अर्थ है ज्ञान) और 'logos' (अध्ययन) से मिलकर बना है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1002,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "How many letters in \"SIGNATURE\" are between the first vowel and the last consonant?",
+      "post_title": "Letters in SIGNATURE between first vowel...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          },
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "6",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 5</strong></p><p>Let's map out the letters of the word <strong>SIGNATURE</strong> from left to right.<br>The first vowel is 'I' (at the 2nd position).<br>The last consonant is 'R' (at the 8th position).<br>The letters strictly between 'I' and 'R' are G, N, A, T, and U.</p><p>Counting them yields exactly 5 letters.</p><ul><li><strong>Extra Fact:</strong> In such alphabet-based reasoning questions, always clarify if \"between\" is inclusive or exclusive. Standard reasoning assumes exclusive, meaning you don't count the boundaries (I and R)!</li></ul>",
+        "_aimcq_title_hi": "\"SIGNATURE\" में पहले स्वर और अंतिम व्यंजन...",
+        "_aimcq_question_content_hi": "\"SIGNATURE\" में पहले स्वर और अंतिम व्यंजन के बीच कितने अक्षर हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          },
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "6",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: 5</strong></p><p>आइए <strong>SIGNATURE</strong> शब्द के अक्षरों को बाएँ से दाएँ क्रम में देखते हैं।<br>पहला स्वर 'I' है (दूसरे स्थान पर)।<br>अंतिम व्यंजन 'R' है (आठवें स्थान पर)।<br>'I' और 'R' के बीच आने वाले अक्षर हैं: G, N, A, T, और U।</p><p>इन्हें गिनने पर कुल 5 अक्षर मिलते हैं।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> अंग्रेजी वर्णमाला और शब्द पहेलियों में, 'स्वर' (Vowels: A,E,I,O,U) और 'व्यंजन' (Consonants) को जल्दी पहचानने की प्रैक्टिस हमेशा समय बचाती है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1003,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </div><div>MNK, NOJ, OPI, PQH, ?</div>",
+      "post_title": "<div>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </div><div>MNK, NOJ, OPI, PQH, ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "GFD",
+            "image": ""
+          },
+          {
+            "text": "HJG",
+            "image": ""
+          },
+          {
+            "text": "QRG",
+            "image": ""
+          },
+          {
+            "text": "LUH",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: QRG</strong></p><p>Let's break down the shift pattern for each letter position independently:</p><ul><li>1st letter: M(+1)&rarr; N(+1)&rarr; O(+1)&rarr; P(+1)&rarr; <strong>Q</strong></li><li>2nd letter: N(+1)&rarr; O(+1)&rarr; P(+1)&rarr; Q(+1)&rarr; <strong>R</strong></li><li>3rd letter: K(-1)&rarr; J(-1)&rarr; I(-1)&rarr; H(-1)&rarr; <strong>G</strong></li></ul><p>Combining these changes gives the next term in the series: <strong>QRG</strong>.</p><ul><li><strong>Extra Fact:</strong> Splitting mixed-letter series into individual vertical tracks (first letters together, second letters together) instantly simplifies even the most complex visual patterns!</li></ul>",
+        "_aimcq_title_hi": "<div>दिए गए विकल्पों में से उस अक्षर-समूह का चयन करें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर आ सकता है। </div><div>MNK, NOJ, OPI, PQH, ?</div>",
+        "_aimcq_question_content_hi": "<div>दिए गए विकल्पों में से उस अक्षर-समूह का चयन करें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर आ सकता है। </div><div>MNK, NOJ, OPI, PQH, ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "GFD",
+            "image": ""
+          },
+          {
+            "text": "HJG",
+            "image": ""
+          },
+          {
+            "text": "QRG",
+            "image": ""
+          },
+          {
+            "text": "LUH",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: QRG</strong></p><p>आइए प्रत्येक अक्षर की स्थिति के लिए पैटर्न को अलग-अलग तोड़कर देखते हैं:</p><ul><li>पहला अक्षर: M(+1)&rarr; N(+1)&rarr; O(+1)&rarr; P(+1)&rarr; <strong>Q</strong></li><li>दूसरा अक्षर: N(+1)&rarr; O(+1)&rarr; P(+1)&rarr; Q(+1)&rarr; <strong>R</strong></li><li>तीसरा अक्षर: K(-1)&rarr; J(-1)&rarr; I(-1)&rarr; H(-1)&rarr; <strong>G</strong> (यह घट रहा है)</li></ul><p>इन बदलावों को मिलाने पर श्रृंखला का अगला पद <strong>QRG</strong> मिलता है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> अक्षर श्रृंखलाओं (Letter series) में उलझने से बचने के लिए हमेशा पहले अक्षरों का पहले अक्षरों के साथ, और दूसरों का दूसरों के साथ संबंध खोजना चाहिए!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1004,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </div><div>QAZ, SDF, UGL, ?</div>",
+      "post_title": "<div>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </div><div>QAZ, SDF, UGL, ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "VIJ",
+            "image": ""
+          },
+          {
+            "text": "TFG",
+            "image": ""
+          },
+          {
+            "text": "TGH",
+            "image": ""
+          },
+          {
+            "text": "WJR",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: WJR</strong></p><p>Let's analyze the forward shifts for each position in the letter cluster (QAZ, SDF, UGL):</p><ul><li>1st letter: Q(+2)&rarr; S(+2)&rarr; U(+2)&rarr; <strong>W</strong></li><li>2nd letter: A(+3)&rarr; D(+3)&rarr; G(+3)&rarr; <strong>J</strong></li><li>3rd letter: Z(+6)&rarr; F(+6)&rarr; L(+6)&rarr; <strong>R</strong> (Note: Z+6 loops back past A to F).</li></ul><p>Combining the resulting letters yields the final code: <strong>WJR</strong>.</p><ul><li><strong>Extra Fact:</strong> When an alphabetical shift exceeds 'Z' (like Z + 6), it wraps around to the beginning of the alphabet. This is known as modulo-26 arithmetic!</li></ul>",
+        "_aimcq_title_hi": "<div>दिए गए विकल्पों में से उस अक्षर-समूह का चयन करें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) को प्रतिस्थापित कर सके। </div><div>QAZ, SDF, UGL, ?</div>",
+        "_aimcq_question_content_hi": "<div>दिए गए विकल्पों में से उस अक्षर-समूह का चयन करें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) को प्रतिस्थापित कर सके। </div><div>QAZ, SDF, UGL, ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "VIJ",
+            "image": ""
+          },
+          {
+            "text": "TFG",
+            "image": ""
+          },
+          {
+            "text": "TGH",
+            "image": ""
+          },
+          {
+            "text": "WJR",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: WJR</strong></p><p>आइए अक्षर समूहों (QAZ, SDF, UGL) में हर अक्षर के आगे बढ़ने का क्रम देखते हैं:</p><ul><li>पहला अक्षर: Q(+2)&rarr; S(+2)&rarr; U(+2)&rarr; <strong>W</strong></li><li>दूसरा अक्षर: A(+3)&rarr; D(+3)&rarr; G(+3)&rarr; <strong>J</strong></li><li>तीसरा अक्षर: Z(+6)&rarr; F(+6)&rarr; L(+6)&rarr; <strong>R</strong> (ध्यान दें: Z में 6 जोड़ने पर वर्णमाला वापस A से शुरू होकर F तक पहुंचती है)।</li></ul><p>परिणामी अक्षरों को मिलाने पर सही उत्तर <strong>WJR</strong> प्राप्त होता है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> जब कोई अक्षर 'Z' को पार कर जाता है, तो गिनती वापस 'A' से शुरू हो जाती है। रीजनिंग में इसे वर्णमाला का चक्रीय क्रम (Cyclic order) कहते हैं!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1005,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>Which of the following alternatives will replace the question mark? </div><div>Chaos, Conflict, Negotiation, Resolution, ?</div>",
+      "post_title": "<div>Which of the following alternatives will replace the question mark? </div><div>Chaos, Conflict, Negotiation, Resolution, ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Justice",
+            "image": ""
+          },
+          {
+            "text": "Harmony",
+            "image": ""
+          },
+          {
+            "text": "Stability",
+            "image": ""
+          },
+          {
+            "text": "Law",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: Harmony</strong></p><p>This is a chronological sequence question showing the life cycle of a dispute. <br>First, there is <strong>Chaos</strong>, which escalates into a <strong>Conflict</strong>. To fix this, parties enter into <strong>Negotiation</strong>, which ultimately leads to a <strong>Resolution</strong>. Once the resolution is achieved, the final resulting state is <strong>Harmony</strong>.</p><ul><li><strong>Extra Fact:</strong> Chronological word sequences test your logical understanding of real-world processes, often mirroring stages of problem-solving or natural life cycles.</li></ul>",
+        "_aimcq_title_hi": "<div>निम्नलिखित में से कौन सा विकल्प प्रश्न चिह्न की जगह लेगा? </div><div>अराजकता, संघर्ष, बातचीत, समाधान, ?</div>",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित में से कौन सा विकल्प प्रश्न चिह्न की जगह लेगा? </div><div>अराजकता, संघर्ष, बातचीत, समाधान, ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "न्याय",
+            "image": ""
+          },
+          {
+            "text": "सद्भाव",
+            "image": ""
+          },
+          {
+            "text": "स्थिरता",
+            "image": ""
+          },
+          {
+            "text": "कानून",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: सद्भाव (Harmony)</strong></p><p>यह विवादों के सुलझने का एक कालानुक्रमिक क्रम (Chronological sequence) है। <br>सबसे पहले <strong>अराजकता (Chaos)</strong> होती है, जो <strong>संघर्ष (Conflict)</strong> में बदल जाती है। इसे सुलझाने के लिए <strong>बातचीत (Negotiation)</strong> होती है, जिससे एक <strong>समाधान (Resolution)</strong> निकलता है। समाधान हो जाने के बाद, अंतिम परिणाम के रूप में शांति और <strong>सद्भाव (Harmony)</strong> स्थापित होता है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> शब्दों के कालानुक्रमिक क्रम वाले प्रश्न आपके सामान्य ज्ञान और वास्तविक दुनिया की प्रक्रियाओं की तार्किक समझ का परीक्षण करते हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1006,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Which word does not belong to the category? ",
+      "post_title": "Which word does not belong to the category? ",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Hibiscus",
+            "image": ""
+          },
+          {
+            "text": "Tulip",
+            "image": ""
+          },
+          {
+            "text": "Apple",
+            "image": ""
+          },
+          {
+            "text": "Daisy",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: Apple</strong></p><p>This is a classification (Odd One Out) problem based on botany. <br>Hibiscus, Tulip, and Daisy all belong to the category of <strong>Flowers</strong>. <br>However, an <strong>Apple</strong> is an edible fruit. Therefore, it breaks the category pattern.</p><ul><li><strong>Extra Fact:</strong> In competitive reasoning, the \"Odd One Out\" category relies on finding the single universal grouping that connects all options except one. Here, the grouping is strictly \"flowers\".</li></ul>",
+        "_aimcq_title_hi": "कौन सा शब्द इस श्रेणी से संबंधित नहीं है?",
+        "_aimcq_question_content_hi": "कौन सा शब्द इस श्रेणी से संबंधित नहीं है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "हिबिस्कुस",
+            "image": ""
+          },
+          {
+            "text": "ट्यूलिप",
+            "image": ""
+          },
+          {
+            "text": "सेब",
+            "image": ""
+          },
+          {
+            "text": "गुलबहार",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: सेब (Apple)</strong></p><p>यह वर्गीकरण (Odd One Out) का एक प्रश्न है। <br>हिबिस्कुस (गुड़हल), ट्यूलिप और डेज़ी (गुलबहार) ये सभी <strong>फूलों</strong> की श्रेणी में आते हैं। <br>हालाँकि, <strong>सेब (Apple)</strong> एक फल है, इसलिए यह इस समूह से बिल्कुल अलग (विषम) है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> 'विषम चुनें' वाले सवालों में हमेशा तीन विकल्पों के बीच एक मजबूत समानता (जैसे सभी का फूल होना) ढूंढनी होती है, जिससे चौथा विकल्प अपने आप अलग हो जाता है।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1007,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "What comes next: 0, 6, 24, 60, 120, ?",
+      "post_title": "0, 6, 24, 60, 120, ?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "196",
+            "image": ""
+          },
+          {
+            "text": "156",
+            "image": ""
+          },
+          {
+            "text": "210",
+            "image": ""
+          },
+          {
+            "text": "200",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 210</strong></p><p>Let's analyze the mathematical pattern generating this series. The rule strictly follows the formula <strong>$n^3 - n$</strong> for consecutive numbers:</p><ul><li>$1^3 - 1 = 1 - 1 = 0$</li><li>$2^3 - 2 = 8 - 2 = 6$</li><li>$3^3 - 3 = 27 - 3 = 24$</li><li>$4^3 - 4 = 64 - 4 = 60$</li><li>$5^3 - 5 = 125 - 5 = 120$</li></ul><p>For the next term, substitute $n = 6$ into the formula:<br>$6^3 - 6 = 216 - 6 = 210$.</p><ul><li><strong>Extra Fact:</strong> Recognizing values slightly offset from perfect cubes (like 24 near 27, 60 near 64, or 120 near 125) is a vital superpower for instantly cracking hard number series!</li></ul>",
+        "_aimcq_title_hi": "0, 6, 24, 60, 120, ?",
+        "_aimcq_question_content_hi": "इसके बाद क्या आएगा: 0, 6, 24, 60, 120, ?",
+        "_aimcq_options_hi": [
+          {
+            "text": "196",
+            "image": ""
+          },
+          {
+            "text": "156",
+            "image": ""
+          },
+          {
+            "text": "210",
+            "image": ""
+          },
+          {
+            "text": "200",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: 210</strong></p><p>आइए इस श्रृंखला को बनाने वाले गणितीय पैटर्न का विश्लेषण करते हैं। यह प्राकृतिक संख्याओं के लिए <strong>$n^3 - n$</strong> (संख्या का घन - वही संख्या) के नियम का पालन करता है:</p><ul><li>$1^3 - 1 = 1 - 1 = 0$</li><li>$2^3 - 2 = 8 - 2 = 6$</li><li>$3^3 - 3 = 27 - 3 = 24$</li><li>$4^3 - 4 = 64 - 4 = 60$</li><li>$5^3 - 5 = 125 - 5 = 120$</li></ul><p>अगले पद के लिए, फॉर्मूले में $n = 6$ रखें:<br>$6^3 - 6 = 216 - 6 = 210$.</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> पूर्ण घनों (Perfect cubes) के आस-पास की संख्याओं को पहचानना (जैसे 27 के पास 24, 64 के पास 60) कठिन नंबर सीरीज़ को सेकंडों में हल करने का अचूक तरीका है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1008,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "What should come at the place of question mark? 3, 4, 13, 14, 45, 46, ?",
+      "post_title": "3, 4, 13, 14, 45, 46, ?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "143",
+            "image": ""
+          },
+          {
+            "text": "136",
+            "image": ""
+          },
+          {
+            "text": "140",
+            "image": ""
+          },
+          {
+            "text": "138",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 143</strong></p><p>This series uses an alternating twin-rule pattern. Let's group them into pairs to see how one number jumps to the next pair: (3, 4), (13, 14), (45, 46).</p><p>Rule 1 (Within the pair): Simply add 1.<br>3 + 1 = 4<br>13 + 1 = 14<br>45 + 1 = 46</p><p>Rule 2 (Jumping to the next pair): Multiply by 3 and add consecutive odd numbers (1, 3, 5...).<br>4 &times; 3 + 1 = 13<br>14 &times; 3 + 3 = 45<br>46 &times; 3 + 5 = <strong>143</strong></p><ul><li><strong>Extra Fact:</strong> When a number series has numbers that are unusually close to each other followed by sudden jumps, grouping them into pairs is almost always the key to unlocking the logic!</li></ul>",
+        "_aimcq_title_hi": "3, 4, 13, 14, 45, 46, ?",
+        "_aimcq_question_content_hi": "प्रश्नवाचक चिन्ह के स्थान पर क्या आएगा? 3, 4, 13, 14, 45, 46, ?",
+        "_aimcq_options_hi": [
+          {
+            "text": "143",
+            "image": ""
+          },
+          {
+            "text": "136",
+            "image": ""
+          },
+          {
+            "text": "140",
+            "image": ""
+          },
+          {
+            "text": "138",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: 143</strong></p><p>यह श्रृंखला एक बारी-बारी से चलने वाले पैटर्न का उपयोग करती है। आइए संख्याओं को जोड़ियों में बांटकर देखते हैं: (3, 4), (13, 14), (45, 46)।</p><p>नियम 1 (जोड़ी के अंदर): बस 1 जोड़ें।<br>3 + 1 = 4<br>13 + 1 = 14<br>45 + 1 = 46</p><p>नियम 2 (अगली जोड़ी पर जाने के लिए): 3 से गुणा करें और विषम संख्याएं (1, 3, 5...) जोड़ते जाएं।<br>4 &times; 3 + 1 = 13<br>14 &times; 3 + 3 = 45<br>46 &times; 3 + 5 = <strong>143</strong></p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> जब भी किसी नंबर सीरीज में दो संख्याएं बिल्कुल पास हों और फिर अचानक बड़ा उछाल आए, तो हमेशा उन्हें \"जोड़ियों\" (Pairs) में बांटकर हल करने का प्रयास करें!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1009,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Read the following statement carefully and identify the conclusion that follows.\n<div><b>Statement:</b> No student of Class X failed the science exam this year.\n</div><div><b>Conclusions:</b>\n</div>I. The science exam was very easy.\n<div>II. All students of Class X passed science.</div>",
+      "post_title": "Read the following statement carefully and identify the conclusion that follows.\n<div><b>Statement:</b> No student of Class X failed the science exam this year.\n</div><div><b>Conclusions:</b>\n</div>I. The science exam was very easy.\n<div>II. All students of Class X passed science.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Only Conclusion I follows",
+            "image": ""
+          },
+          {
+            "text": "Only Conclusion II follows",
+            "image": ""
+          },
+          {
+            "text": "Both I and II follow",
+            "image": ""
+          },
+          {
+            "text": "Neither I nor II follows",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: Only Conclusion II follows</strong></p><p>Let's logically deduce from the statement: \"No student of Class X failed the science exam this year.\"</p><ul><li><strong>Conclusion I:</strong> \"The science exam was very easy.\" - The statement provides data only about the <em>results</em> (pass/fail). We cannot assume the exam was easy; students could have passed by studying extremely hard. This is an invalid assumption.</li><li><strong>Conclusion II:</strong> \"All students of Class X passed science.\" - By definition, if absolutely <em>no one</em> failed, it guarantees mathematically and logically that <em>everyone</em> passed. This is a direct, inescapable conclusion.</li></ul><p>Therefore, only Conclusion II is valid.</p><ul><li><strong>Extra Fact:</strong> In strict syllogism and logical deduction, you must never introduce external assumptions (like exam difficulty) that aren't explicitly stated or mathematically proven by the premise!</li></ul>",
+        "_aimcq_title_hi": "निम्नलिखित कथन को ध्यानपूर्वक पढ़ें और निष्कर्ष निकालें।\n<div><b>कथनः</b> इस वर्ष दसवीं कक्षा का कोई भी छात्र विज्ञान की परीक्षा में अनुत्तीर्ण नहीं हुआ।\n</div><div><b>निष्कर्षः</b>\n</div>I. विज्ञान की परीक्षा बहुत आसान थी।\n<div>II. दसवीं कक्षा के सभी छात्र विज्ञान में उत्तीर्ण हुए।</div>",
+        "_aimcq_question_content_hi": "निम्नलिखित कथन को ध्यानपूर्वक पढ़ें और निष्कर्ष निकालें।\n<div><b>कथनः</b> इस वर्ष दसवीं कक्षा का कोई भी छात्र विज्ञान की परीक्षा में अनुत्तीर्ण नहीं हुआ।\n</div><div><b>निष्कर्षः</b>\n</div>I. विज्ञान की परीक्षा बहुत आसान थी।\n<div>II. दसवीं कक्षा के सभी छात्र विज्ञान में उत्तीर्ण हुए।</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल निष्कर्ष I अनुसरण करता है",
+            "image": ""
+          },
+          {
+            "text": "केवल निष्कर्ष II अनुसरण करता है",
+            "image": ""
+          },
+          {
+            "text": "I और II दोनों अनुसरण करते हैं",
+            "image": ""
+          },
+          {
+            "text": "न तो I और न ही II अनुसरण करता है",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: केवल निष्कर्ष II अनुसरण करता है</strong></p><p>आइए कथन से तार्किक निष्कर्ष निकालते हैं: \"इस वर्ष दसवीं कक्षा का कोई भी छात्र विज्ञान की परीक्षा में अनुत्तीर्ण (फेल) नहीं हुआ।\"</p><ul><li><strong>निष्कर्ष I:</strong> \"विज्ञान की परीक्षा बहुत आसान थी।\" - कथन केवल <em>परिणाम</em> के बारे में बात करता है। हम यह नहीं मान सकते कि परीक्षा आसान थी; हो सकता है कि छात्रों ने बहुत कड़ी मेहनत की हो। यह एक गलत धारणा है।</li><li><strong>निष्कर्ष II:</strong> \"दसवीं कक्षा के सभी छात्र विज्ञान में उत्तीर्ण हुए।\" - तर्क के अनुसार, यदि <em>कोई भी</em> फेल नहीं हुआ है, तो इसका स्पष्ट अर्थ है कि परीक्षा देने वाले <em>सभी</em> छात्र पास हो गए हैं। यह एक सीधा और सटीक निष्कर्ष है।</li></ul><p>अतः केवल निष्कर्ष II सही है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> तार्किक निगमन (Logical deduction) के सवालों में अपनी तरफ से कोई भी बाहरी जानकारी (जैसे पेपर का आसान या कठिन होना) जोड़ना हमेशा गलत होता है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1010,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div><b>Instruction:</b> Identify the assumptions that must hold for the statement to be valid, then choose the correct option.</div><div><b>Statement:</b> Although recent advancements in quantum computing have significantly improved processing speeds, the stability of quantum states remains a critical barrier to developing large-scale quantum computers for practical applications.</div><div><b>Assumptions:</b>\n</div>I. Quantum computing holds the potential for faster data processing than classical computing.\n<div>II. Quantum states are inherently unstable, making large-scale quantum computing unfeasible.\n</div><div>III. Recent advancements in quantum computing have resolved the issue of quantum state stability.</div>",
+      "post_title": "<div><b>Instruction:</b> Identify the assumptions that must hold for the statement to be valid, then choose the correct option.</div><div><b>Statement:</b> Although recent advancements in quantum computing have significantly improved processing speeds, the stability of quantum states remains a critical barrier to developing large-scale quantum computers for practical applications.</div><div><b>Assumptions:</b>\n</div>I. Quantum computing holds the potential for faster data processing than classical computing.\n<div>II. Quantum states are inherently unstable, making large-scale quantum computing unfeasible.\n</div><div>III. Recent advancements in quantum computing have resolved the issue of quantum state stability.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Only I and II are implicit",
+            "image": ""
+          },
+          {
+            "text": "Only II and III are implicit",
+            "image": ""
+          },
+          {
+            "text": "Only I is implicit",
+            "image": ""
+          },
+          {
+            "text": "All I, II, and III are implicit",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: Only I and II are implicit</strong></p><p>Let's test each assumption against the core statement about quantum computing.</p><ul><li><strong>Assumption I:</strong> The statement opens by noting that recent advancements have \"significantly improved processing speeds.\" This assumes that quantum computing indeed offers a speed advantage over older tech. (Implicit)</li><li><strong>Assumption II:</strong> The statement highlights that the \"stability of quantum states remains a critical barrier\" to large-scale applications. This heavily implies that the current state is naturally unstable, making large-scale building currently unfeasible. (Implicit)</li><li><strong>Assumption III:</strong> The statement explicitly says stability \"remains a critical barrier\", directly contradicting the idea that the issue is already resolved. (Not Implicit)</li></ul><p>Therefore, only I and II hold valid.</p><ul><li><strong>Extra Fact:</strong> The fragile nature of a quantum state is called \"quantum decoherence\". Even a slight temperature change or vibration can cause the quantum information to collapse!</li></ul>",
+        "_aimcq_title_hi": "<b>निर्देशः</b> कथन के वैध होने के लिए आवश्यक मान्यताओं की पहचान करें, फिर सही विकल्प चुनें।\n<div><b>कथनः</b> हालांकि क्वांटम कंप्यूटिंग में हाल ही में हुई प्रगति ने प्रसंस्करण गति में उल्लेखनीय सुधार किया है, लेकिन क्वांटम अवस्थाओं की स्थिरता व्यावहारिक अनुप्रयोगों के लिए बड़े पैमाने पर क्वांटम कंप्यूटर विकसित करने में एक महत्वपूर्ण बाधा बनी हुई है।\n</div><div><b>मान्यताएँ:</b>\n</div>I. क्वांटम कंप्यूटिंग में शास्त्रीय कंप्यूटिंग की तुलना में तेज़ डेटा प्रोसेसिंग की क्षमता है।\n<div>II. क्वांटम अवस्थाएँ स्वाभाविक रूप से अस्थिर होती हैं, जिससे बड़े पैमाने पर क्वांटम कंप्यूटिंग अव्यवहारिक हो जाती है।\n</div><div>III. क्वांटम कंप्यूटिंग में हाल ही में हुई प्रगति ने क्वांटम अवस्था स्थिरता के मुद्दे को हल कर दिया है।</div>",
+        "_aimcq_question_content_hi": "<b>निर्देशः</b> कथन के वैध होने के लिए आवश्यक मान्यताओं की पहचान करें, फिर सही विकल्प चुनें।\n<div><b>कथनः</b> हालांकि क्वांटम कंप्यूटिंग में हाल ही में हुई प्रगति ने प्रसंस्करण गति में उल्लेखनीय सुधार किया है, लेकिन क्वांटम अवस्थाओं की स्थिरता व्यावहारिक अनुप्रयोगों के लिए बड़े पैमाने पर क्वांटम कंप्यूटर विकसित करने में एक महत्वपूर्ण बाधा बनी हुई है।\n</div><div><b>मान्यताएँ:</b>\n</div>I. क्वांटम कंप्यूटिंग में शास्त्रीय कंप्यूटिंग की तुलना में तेज़ डेटा प्रोसेसिंग की क्षमता है।\n<div>II. क्वांटम अवस्थाएँ स्वाभाविक रूप से अस्थिर होती हैं, जिससे बड़े पैमाने पर क्वांटम कंप्यूटिंग अव्यवहारिक हो जाती है।\n</div><div>III. क्वांटम कंप्यूटिंग में हाल ही में हुई प्रगति ने क्वांटम अवस्था स्थिरता के मुद्दे को हल कर दिया है।</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल I और II निहित हैं",
+            "image": ""
+          },
+          {
+            "text": "केवल II और III अंतर्निहित हैं",
+            "image": ""
+          },
+          {
+            "text": "केवल I निहित है",
+            "image": ""
+          },
+          {
+            "text": "सभी I, II और III निहित हैं",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: केवल I और II निहित हैं</strong></p><p>आइए क्वांटम कंप्यूटिंग के बारे में दिए गए कथन के आधार पर मान्यताओं का परीक्षण करते हैं।</p><ul><li><strong>मान्यता I:</strong> कथन में शुरुआत में ही \"प्रसंस्करण गति में उल्लेखनीय सुधार\" (improved processing speeds) का उल्लेख है। यह साफ तौर पर मानकर चलता है कि क्वांटम कंप्यूटिंग में तेज़ डेटा प्रोसेसिंग की क्षमता है। (निहित है)</li><li><strong>मान्यता II:</strong> कथन साफ कहता है कि \"क्वांटम अवस्थाओं की स्थिरता एक महत्वपूर्ण बाधा बनी हुई है।\" इसका सीधा अर्थ है कि वर्तमान में ये अवस्थाएं अस्थिर हैं, जिससे बड़े पैमाने पर इसके उपयोग में अड़चन आ रही है। (निहित है)</li><li><strong>मान्यता III:</strong> कथन स्पष्ट रूप से कहता है कि स्थिरता अभी भी एक \"महत्वपूर्ण बाधा\" बनी हुई है। इसका मतलब है कि यह मुद्दा अभी हल नहीं हुआ है। (निहित नहीं है)</li></ul><p>इसलिए, केवल I और II सही हैं।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> क्वांटम अवस्था के इतनी जल्दी अस्थिर होने की समस्या को विज्ञान में \"क्वांटम डिकोहेंस\" (Quantum decoherence) कहा जाता है, जहाँ ज़रा सी गर्मी या हलचल से डेटा नष्ट हो जाता है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1011,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Each of the letters in the word GARDEN is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is fifth from the left and the one that is third from the right in the new letter-cluster formed?",
+      "post_title": "Each of the letters in the word GARDEN is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is fifth from the left and the one that is third from the right in the new letter-cluster formed?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Two",
+            "image": ""
+          },
+          {
+            "text": "Four",
+            "image": ""
+          },
+          {
+            "text": "Six",
+            "image": ""
+          },
+          {
+            "text": "One",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: Six</strong></p><p>Step 1: Arrange the letters of the word <strong>GARDEN</strong> in alphabetical order from left to right.<br>Original: G, A, R, D, E, N.<br>Sorted: <strong>A, D, E, G, N, R</strong>.</p><p>Step 2: Identify the specified letters.<br>The 5th letter from the left is <strong>N</strong>.<br>The 3rd letter from the right is <strong>G</strong>. (R is 1st, N is 2nd, G is 3rd).</p><p>Step 3: Count the letters exactly between G and N in the standard English alphabet.<br>Letters between G and N are: H, I, J, K, L, M.<br>Total count = 6 letters.</p><ul><li><strong>Extra Fact:</strong> A quick math trick for alphabetical distances: The position of N is 14 and G is 7. To find the number of elements strictly between them, use the formula (Higher - Lower - 1). So, $14 - 7 - 1 = 6$!</li></ul>",
+        "_aimcq_title_hi": "GARDEN शब्द के प्रत्येक अक्षर को वर्णानुक्रम में व्यवस्थित किया गया है। नए अक्षर-समूह में बाएँ से पाँचवें अक्षर और दाएँ से तीसरे अक्षर के बीच अंग्रेज़ी वर्णमाला श्रृंखला में कितने अक्षर हैं?",
+        "_aimcq_question_content_hi": "GARDEN शब्द के प्रत्येक अक्षर को वर्णानुक्रम में व्यवस्थित किया गया है। नए अक्षर-समूह में बाएँ से पाँचवें अक्षर और दाएँ से तीसरे अक्षर के बीच अंग्रेज़ी वर्णमाला श्रृंखला में कितने अक्षर हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "दो",
+            "image": ""
+          },
+          {
+            "text": "चार",
+            "image": ""
+          },
+          {
+            "text": "छह",
+            "image": ""
+          },
+          {
+            "text": "एक",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: छह (Six)</strong></p><p>चरण 1: <strong>GARDEN</strong> शब्द के अक्षरों को अंग्रेजी वर्णमाला (A से Z) के क्रम में सजाएँ।<br>मूल: G, A, R, D, E, N.<br>वर्णानुक्रम: <strong>A, D, E, G, N, R</strong>.</p><p>चरण 2: बताए गए अक्षरों की पहचान करें।<br>बाएँ से पाँचवाँ अक्षर <strong>N</strong> है।<br>दाएँ से तीसरा अक्षर <strong>G</strong> है। (दाएँ से पहला R, दूसरा N और तीसरा G है)।</p><p>चरण 3: सामान्य अंग्रेजी वर्णमाला में G और N के बीच आने वाले अक्षर गिनें।<br>G और N के बीच: H, I, J, K, L, M आते हैं।<br>कुल अक्षर = 6.</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> आप इसे नंबरों से बहुत जल्दी निकाल सकते हैं। N=14 और G=7. किन्हीं भी दो अक्षरों के 'बीच' के अक्षर निकालने का फॉर्मूला है (बड़ा नंबर - छोटा नंबर - 1)। यानी $14 - 7 - 1 = 6$!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1012,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "How many meaningful four-letter English words can be formed using the first, second, fourth, and fifth letters of the word \"ELEVATE\" (when counted from left to right), using each letter only once in each word?",
+      "post_title": "How many meaningful four-letter English words can be formed using the first, second, fourth, and fifth letters of the word \"ELEVATE\" (when counted from left to right), using each letter only once in each word?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "1",
+            "image": ""
+          },
+          {
+            "text": "2",
+            "image": ""
+          },
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 4</strong></p><p>Step 1: Extract the specified letters from the word \"ELEVATE\".<br>Counting left to right: 1st = E, 2nd = L, 4th = V, 5th = A.<br>The available letters are: <strong>E, L, V, A</strong>.</p><p>Step 2: Rearrange these 4 letters to form valid English words using each letter exactly once.<br>1. <strong>VALE</strong> (meaning: a valley, usually used in poetry)<br>2. <strong>VEAL</strong> (meaning: meat from a young calf)<br>3. <strong>LAVE</strong> (meaning: to wash or flow over)<br>4. <strong>VELA</strong> (meaning: plural of velum, or a membrane/sail)</p><p>Since exactly four meaningful words can be formed, the answer is 4.</p><ul><li><strong>Extra Fact:</strong> Games like Scrabble and logic puzzles frequently use \"LAVE\" and \"VALE\" as they are high-scoring, lesser-known anagrams of commonly paired letters!</li></ul>",
+        "_aimcq_title_hi": "\"ELEVATE\" शब्द के पहले, दूसरे, चौथे और पांचवें अक्षरों का उपयोग करके (बाएं से दाएं गिनने पर) कितने सार्थक चार-अक्षर वाले अंग्रेजी शब्द बनाए जा सकते हैं, जिनमें प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग किया गया हो?",
+        "_aimcq_question_content_hi": "\"ELEVATE\" शब्द के पहले, दूसरे, चौथे और पांचवें अक्षरों का उपयोग करके (बाएं से दाएं गिनने पर) कितने सार्थक चार-अक्षर वाले अंग्रेजी शब्द बनाए जा सकते हैं, जिनमें प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग किया गया हो?",
+        "_aimcq_options_hi": [
+          {
+            "text": "1",
+            "image": ""
+          },
+          {
+            "text": "2",
+            "image": ""
+          },
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: 4</strong></p><p>चरण 1: \"ELEVATE\" शब्द में से बताए गए अक्षरों को निकालें।<br>बाएं से गिनने पर: पहला = E, दूसरा = L, चौथा = V, पांचवां = A.<br>हमारे पास अक्षर हैं: <strong>E, L, V, A</strong>.</p><p>चरण 2: इन 4 अक्षरों को आगे-पीछे करके सार्थक अंग्रेजी शब्द बनाएं (हर अक्षर का केवल एक बार उपयोग)।<br>1. <strong>VALE</strong> (अर्थ: घाटी, मुख्य रूप से कविताओं में इस्तेमाल होता है)<br>2. <strong>VEAL</strong> (अर्थ: बछड़े का मांस)<br>3. <strong>LAVE</strong> (अर्थ: धोना या नहलाना)<br>4. <strong>VELA</strong> (अर्थ: झिल्ली या पाल)</p><p>चूंकि हम कुल 4 सार्थक शब्द बना सकते हैं, इसलिए सही उत्तर 4 है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> शब्दों को आगे-पीछे करके नए शब्द बनाने की प्रक्रिया को \"एनाग्राम\" (Anagram) कहा जाता है। यह भाषा की शब्दावली (Vocabulary) को परखने का एक बेहतरीन तरीका है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1013,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Which of the following is/are identical to the address given: Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018\n<div>1. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018\n</div><div>2. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302019\n</div><div>3. Rajesh Verma 15B, Sapphire Tower, Jaipur, 302018\n</div><div>4. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302017</div>",
+      "post_title": "Which of the following is/are identical to the address given: Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018\n<div>1. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018\n</div><div>2. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302019\n</div><div>3. Rajesh Verma 15B, Sapphire Tower, Jaipur, 302018\n</div><div>4. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302017</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "2 Only",
+            "image": ""
+          },
+          {
+            "text": "1 Only",
+            "image": ""
+          },
+          {
+            "text": "4 Only",
+            "image": ""
+          },
+          {
+            "text": "3 Only",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 1 Only</strong></p><p>This is a clerical aptitude question testing strict visual concentration. We must compare the original address character-by-character with the options.</p><p><strong>Original:</strong> Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018</p><ul><li><strong>Address 1:</strong> Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018 (<strong>Perfect Match</strong>)</li><li><strong>Address 2:</strong> Rajesh Verma 15B, Sapphire Towers, Jaipur, <strong>302019</strong> (Error: Incorrect pin code)</li><li><strong>Address 3:</strong> Rajesh Verma 15B, Sapphire <strong>Tower</strong>, Jaipur, 302018 (Error: Missing 's' in Towers)</li><li><strong>Address 4:</strong> Rajesh Verma 15B, Sapphire Towers, Jaipur, <strong>302017</strong> (Error: Incorrect pin code)</li></ul><p>Thus, only Address 1 is absolutely identical.</p><ul><li><strong>Extra Fact:</strong> These \"Data Checking\" questions simulate clerical tasks to evaluate a candidate's resistance to \"change blindness,\" a psychological phenomenon where slight visual changes go completely unnoticed!</li></ul>",
+        "_aimcq_title_hi": "निम्नलिखित में से कौन सा/से पते दिए गए पते के समान है/हैं: राजेश वर्मा 15 बी, सफायर टावर्स, जयपुर, 302018\n<div>1. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302018\n</div><div>2. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302019\n</div><div>3. राजेश वर्मा 15बी, सफायर टावर, जयपुर, 302018\n</div><div>4. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302017</div>",
+        "_aimcq_question_content_hi": "निम्नलिखित में से कौन सा/से पते दिए गए पते के समान है/हैं: राजेश वर्मा 15 बी, सफायर टावर्स, जयपुर, 302018\n<div>1. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302018\n</div><div>2. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302019\n</div><div>3. राजेश वर्मा 15बी, सफायर टावर, जयपुर, 302018\n</div><div>4. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302017</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 2",
+            "image": ""
+          },
+          {
+            "text": "केवल 1",
+            "image": ""
+          },
+          {
+            "text": "केवल 4",
+            "image": ""
+          },
+          {
+            "text": "केवल 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: केवल 1</strong></p><p>यह दृश्य एकाग्रता (Visual concentration) और डेटा जाँचने का प्रश्न है। हमें मूल पते का विकल्पों के साथ अक्षर-दर-अक्षर मिलान करना होगा।</p><p><strong>मूल पता:</strong> Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018</p><ul><li><strong>पता 1:</strong> Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018 (<strong>बिल्कुल समान</strong>)</li><li><strong>पता 2:</strong> Rajesh Verma 15B, Sapphire Towers, Jaipur, <strong>302019</strong> (त्रुटि: गलत पिन कोड)</li><li><strong>पता 3:</strong> Rajesh Verma 15B, Sapphire <strong>Tower</strong>, Jaipur, 302018 (त्रुटि: Towers में 's' गायब है)</li><li><strong>पता 4:</strong> Rajesh Verma 15B, Sapphire Towers, Jaipur, <strong>302017</strong> (त्रुटि: गलत पिन कोड)</li></ul><p>अतः केवल पता 1 ही बिल्कुल सही और समान है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> परीक्षाओं में ऐसे \"डेटा चेकिंग\" के सवाल खास तौर पर इसलिए पूछे जाते हैं ताकि यह जांचा जा सके कि उम्मीदवार सूक्ष्म गलतियों (जैसे एक अक्षर या अंक की गलती) को कितनी जल्दी पकड़ सकता है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1014,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Find the option that best completes the analogy.\n<div>EK : MS :: FP : ?</div>",
+      "post_title": "Find the option that best completes the analogy.\n<div>EK : MS :: FP : ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "ND",
+            "image": ""
+          },
+          {
+            "text": "NL",
+            "image": ""
+          },
+          {
+            "text": "NX",
+            "image": ""
+          },
+          {
+            "text": "NT",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: NX</strong></p><p>Let's map out the positional relationship in the first given letter analogy (EK : MS):</p><ul><li>E (5th letter) + 8 = M (13th letter)</li><li>K (11th letter) + 8 = S (19th letter)</li></ul><p>The logic dictates a strict forward shift of exactly +8 positions for every letter. Now apply this identical logic to the target 'FP':</p><ul><li>F (6th letter) + 8 = N (14th letter)</li><li>P (16th letter) + 8 = X (24th letter)</li></ul><p>Therefore, FP corresponds directly to <strong>NX</strong>.</p><ul><li><strong>Extra Fact:</strong> In reasoning, letter analogies are essentially mathematical equations in disguise. Memorizing the numerical values of A-Z (1-26) turns complex letter puzzles into simple addition!</li></ul>",
+        "_aimcq_title_hi": "वह विकल्प ज्ञात कीजिए जो सादृश्य को सर्वोत्तम रूप से पूरा करता है।\n<div>EK : MS :: FP : ?</div>",
+        "_aimcq_question_content_hi": "वह विकल्प ज्ञात कीजिए जो सादृश्य को सर्वोत्तम रूप से पूरा करता है।\n<div>EK : MS :: FP : ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "ND",
+            "image": ""
+          },
+          {
+            "text": "NL",
+            "image": ""
+          },
+          {
+            "text": "NX",
+            "image": ""
+          },
+          {
+            "text": "NT",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: NX</strong></p><p>आइए पहले अक्षर-समूह जोड़े (EK : MS) के बीच के संबंध को डिकोड करते हैं:</p><ul><li>E (5वां अक्षर) + 8 = M (13वां अक्षर)</li><li>K (11वां अक्षर) + 8 = S (19वां अक्षर)</li></ul><p>यह नियम बहुत स्पष्ट है: प्रत्येक अक्षर में +8 जोड़ना है (यानी वर्णमाला में 8 स्थान आगे बढ़ना है)। अब यही नियम 'FP' पर लागू करें:</p><ul><li>F (6ठा अक्षर) + 8 = N (14वां अक्षर)</li><li>P (16वां अक्षर) + 8 = X (24वां अक्षर)</li></ul><p>अतः FP का संबंध <strong>NX</strong> से होगा।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> अंग्रेजी वर्णमाला (A से Z तक 1-26 नंबर) के मानों को याद रखने से अक्षरों पर आधारित सभी कठिन सवाल पलक झपकते ही साधारण जोड़-घटाव में बदल जाते हैं!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1015,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>In each of the following questions, the second word is formed by rearranging the letters of the first word according to a specific pattern. Apply the same pattern to the third word to determine the correct answer from the given alternatives. </div><div>NUMBER : UNBMRE :: GHOSTS : ?</div>",
+      "post_title": "<div>In each of the following questions, the second word is formed by rearranging the letters of the first word according to a specific pattern. Apply the same pattern to the third word to determine the correct answer from the given alternatives. </div><div>NUMBER : UNBMRE :: GHOSTS : ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "HGOSTS",
+            "image": ""
+          },
+          {
+            "text": "HOGSTS",
+            "image": ""
+          },
+          {
+            "text": "HGSOST",
+            "image": ""
+          },
+          {
+            "text": "HGSOTS",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: HGSOST</strong></p><p>Let's decode the rearrangement pattern applied to the word <strong>NUMBER</strong>.</p><p>Step 1: Divide the word into distinct pairs of adjacent letters.<br>(NU) (MB) (ER)</p><p>Step 2: Reverse the order of letters entirely within each pair.<br>NU &rarr; UN<br>MB &rarr; BM<br>ER &rarr; RE<br>Combining them forms the code: <strong>UNBMRE</strong>.</p><p>Now apply this exact two-letter reversal algorithm to <strong>GHOSTS</strong>:<br>Split into pairs: (GH) (OS) (TS)<br>Reverse each pair: (HG) (SO) (ST)<br>Combine: <strong>HGSOST</strong>.</p><ul><li><strong>Extra Fact:</strong> Grouping letters into pairs and flipping them is a classic elementary cryptography technique called a \"Transposition Cipher\" which scrambles positions without changing the actual letters!</li></ul>",
+        "_aimcq_title_hi": "<div>निम्नलिखित प्रत्येक प्रश्न में, पहले शब्द के अक्षरों को एक विशिष्ट पैटर्न के अनुसार पुनर्व्यवस्थित करके दूसरा शब्द बनाया गया है। दिए गए विकल्पों में से सही उत्तर जानने के लिए तीसरे शब्द पर भी यही पैटर्न लागू कीजिए। </div><div>NUMBER : UNBMRE :: GHOSTS : ?</div>",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित प्रत्येक प्रश्न में, पहले शब्द के अक्षरों को एक विशिष्ट पैटर्न के अनुसार पुनर्व्यवस्थित करके दूसरा शब्द बनाया गया है। दिए गए विकल्पों में से सही उत्तर जानने के लिए तीसरे शब्द पर भी यही पैटर्न लागू कीजिए। </div><div>NUMBER : UNBMRE :: GHOSTS : ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "HGOSTS",
+            "image": ""
+          },
+          {
+            "text": "HOGSTS",
+            "image": ""
+          },
+          {
+            "text": "HGSOST",
+            "image": ""
+          },
+          {
+            "text": "HGSOTS",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: HGSOST</strong></p><p>आइए <strong>NUMBER</strong> शब्द पर लागू किए गए पुनर्व्यवस्था (Rearrangement) के पैटर्न को समझते हैं।</p><p>चरण 1: शब्द को दो-दो अक्षरों के जोड़े में बांटें।<br>(NU) (MB) (ER)</p><p>चरण 2: प्रत्येक जोड़े के अंदर के अक्षरों को आपस में पलट (Reverse) दें।<br>NU &rarr; UN<br>MB &rarr; BM<br>ER &rarr; RE<br>इन्हें मिलाने पर कोड बनता है: <strong>UNBMRE</strong>.</p><p>अब यही नियम <strong>GHOSTS</strong> पर लागू करें:<br>जोड़े बनाएं: (GH) (OS) (TS)<br>जोड़ों को पलटें: (HG) (SO) (ST)<br>मिलाएं: <strong>HGSOST</strong>.</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> अक्षरों को जोड़ों में बांटकर उलटने की इस तकनीक को \"ट्रांसपोज़िशन साइफर\" (Transposition Cipher) कहा जाता है। इसका उपयोग अक्षरों को बदले बिना गुप्त संदेश बनाने के लिए किया जाता है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1016,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Introducing a boy, a girl said, \"He is the son of my mother's only son.\" Who is the boy to the girl?",
+      "post_title": "Blood Relation: Introducing a boy...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Brother",
+            "image": ""
+          },
+          {
+            "text": "Son",
+            "image": ""
+          },
+          {
+            "text": "Nephew",
+            "image": ""
+          },
+          {
+            "text": "Cousin",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: Nephew</strong></p><p>Let's break down the girl's statement backward to trace the family tree.</p><p>Part 1: \"my mother's only son\"<br>The only son of the girl's own mother is simply the girl's <strong>brother</strong>.</p><p>Part 2: \"He is the son of [my brother]\"<br>The girl states that the boy is the son of her brother. <br>The son of one's brother is universally known as a <strong>Nephew</strong>.</p><p>Therefore, the boy is the nephew of the girl.</p><ul><li><strong>Extra Fact:</strong> In blood relation puzzles, substituting complex phrases with direct relations (like replacing \"mother's son\" with \"brother\") simplifies the mental map dramatically and prevents confusion!</li></ul>",
+        "_aimcq_title_hi": "एक लड़के का परिचय देते हुए...",
+        "_aimcq_question_content_hi": "एक लड़के का परिचय देते हुए, एक लड़की ने कहा, \"वह मेरी माँ के इकलौते बेटे का बेटा है।\" लड़‌का लड़‌की का कौन है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भाई",
+            "image": ""
+          },
+          {
+            "text": "बेटा",
+            "image": ""
+          },
+          {
+            "text": "भतीजा",
+            "image": ""
+          },
+          {
+            "text": "चचेरा",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: भतीजा (Nephew)</strong></p><p>आइए पारिवारिक वृक्ष (Family tree) को समझने के लिए लड़की के कथन को टुकड़ों में तोड़ते हैं।</p><p>भाग 1: \"मेरी माँ का इकलौता बेटा\"<br>लड़की की अपनी माँ का इकलौता बेटा और कोई नहीं बल्कि स्वयं उस लड़की का <strong>भाई (Brother)</strong> होगा।</p><p>भाग 2: \"वह [मेरे भाई] का बेटा है\"<br>लड़की बता रही है कि वह लड़का उसके भाई का बेटा है।<br>अपने सगे भाई के बेटे को हमेशा <strong>भतीजा (Nephew)</strong> कहा जाता है।</p><p>इसलिए, वह लड़का उस लड़की का भतीजा है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> रक्त संबंध (Blood relation) के सवालों में लंबे और घुमावदार वाक्यों को छोटे रिश्तों (जैसे \"माँ का बेटा\" को \"भाई\" से) में बदलने से दिमाग में उलझन नहीं होती और उत्तर जल्दी निकलता है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1017,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "One number doesn't match this factorial series: 2, 6, 24, 120, 720, 1000",
+      "post_title": "Factorial series odd one out...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "6",
+            "image": ""
+          },
+          {
+            "text": "24",
+            "image": ""
+          },
+          {
+            "text": "1000",
+            "image": ""
+          },
+          {
+            "text": "120",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 1000</strong></p><p>Let's identify the mathematical logic generating this sequence. The numbers perfectly mirror the mathematical <strong>Factorial</strong> series ($n!$):</p><ul><li>$2! = 2 \\times 1 = 2$</li><li>$3! = 3 \\times 2 \\times 1 = 6$</li><li>$4! = 4 \\times 3 \\times 2 \\times 1 = 24$</li><li>$5! = 5 \\times 4 \\times 3 \\times 2 \\times 1 = 120$</li><li>$6! = 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1 = 720$</li></ul><p>The next logical number in the series must be $7! = 5040$. <br>The number <strong>1000</strong> completely breaks this strict mathematical sequence.</p><ul><li><strong>Extra Fact:</strong> Factorials grow exponentially fast! By the time you reach 10!, the value is already 3,628,800. Factorials are primarily used to calculate permutations and combinations in statistics!</li></ul>",
+        "_aimcq_title_hi": "क्रमगुणित श्रृंखला में बेजोड़...",
+        "_aimcq_question_content_hi": "एक संख्या इस क्रमगुणित श्रृंखला से मेल नहीं खाती: 2, 6, 24, 120, 720, 1000",
+        "_aimcq_options_hi": [
+          {
+            "text": "6",
+            "image": ""
+          },
+          {
+            "text": "24",
+            "image": ""
+          },
+          {
+            "text": "1000",
+            "image": ""
+          },
+          {
+            "text": "120",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: 1000</strong></p><p>आइए इस श्रृंखला को बनाने वाले गणितीय तर्क को पहचानते हैं। यह पूरी तरह से गणितीय <strong>फैक्टोरियल (Factorial / $n!$)</strong> श्रृंखला पर आधारित है:</p><ul><li>$2! = 2 \\times 1 = 2$</li><li>$3! = 3 \\times 2 \\times 1 = 6$</li><li>$4! = 4 \\times 3 \\times 2 \\times 1 = 24$</li><li>$5! = 5 \\times 4 \\times 3 \\times 2 \\times 1 = 120$</li><li>$6! = 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1 = 720$</li></ul><p>तर्क के अनुसार इस श्रृंखला में अगला नंबर $7! = 5040$ होना चाहिए।<br>लेकिन यहाँ <strong>1000</strong> दिया गया है, जो इस कड़े गणितीय पैटर्न को पूरी तरह तोड़ देता है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> फैक्टोरियल (Factorials) बहुत तेज़ी से बढ़ते हैं! 10! तक पहुँचते-पहुँचते इसका मान 3,628,800 हो जाता है। इसका इस्तेमाल मुख्य रूप से संभावनाओं (Permutations) की गणना में होता है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1018,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Which number set is different?: (11, 22, 44), (13, 26, 52), (15, 30, 60), (14, 28, 43)",
+      "post_title": "Which number set is different?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "(11, 22, 44)",
+            "image": ""
+          },
+          {
+            "text": "(13, 26, 52)",
+            "image": ""
+          },
+          {
+            "text": "(15, 30, 60)",
+            "image": ""
+          },
+          {
+            "text": "(14, 28, 43)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: (14, 28, 43)</strong></p><p>Let's analyze the internal mathematical ratio pattern inside the number triplets.</p><p>The standard pattern observed is $(x, 2x, 4x)$:</p><ul><li>Set 1: $11, (11 \\times 2 = 22), (22 \\times 2 = 44)$. (Correct)</li><li>Set 2: $13, (13 \\times 2 = 26), (26 \\times 2 = 52)$. (Correct)</li><li>Set 3: $15, (15 \\times 2 = 30), (30 \\times 2 = 60)$. (Correct)</li></ul><p>Let's verify the final set using the same logic:<br>Set 4: $14, (14 \\times 2 = 28), (28 \\times 2 = \\mathbf{56})$. <br>However, the given set ends with <strong>43</strong> instead of 56. Therefore, (14, 28, 43) is the odd set out.</p><ul><li><strong>Extra Fact:</strong> Triplet number puzzles in reasoning usually involve internal ratios, geometric progressions (multiplying by the same number), or arithmetic progressions (adding the same number)!</li></ul>",
+        "_aimcq_title_hi": "कौन सा संख्या समूह अलग है?",
+        "_aimcq_question_content_hi": "कौन सा संख्या समूह अलग है? (11, 22, 44), (13, 26, 52), (15, 30, 60), (14, 28, 43)",
+        "_aimcq_options_hi": [
+          {
+            "text": "(11,22,44)",
+            "image": ""
+          },
+          {
+            "text": "(13,26,52)",
+            "image": ""
+          },
+          {
+            "text": "(15,30,60)",
+            "image": ""
+          },
+          {
+            "text": "(14,28,43)",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: (14, 28, 43)</strong></p><p>आइए दी गई संख्याओं के समूहों (Triplets) के आंतरिक गणितीय अनुपात का विश्लेषण करते हैं।</p><p>शुरुआती तीन समूहों में पैटर्न $(x, 2x, 4x)$ का पालन किया गया है:</p><ul><li>समूह 1: $11, (11 \\times 2 = 22), (22 \\times 2 = 44)$ (सही है)</li><li>समूह 2: $13, (13 \\times 2 = 26), (26 \\times 2 = 52)$ (सही है)</li><li>समूह 3: $15, (15 \\times 2 = 30), (30 \\times 2 = 60)$ (सही है)</li></ul><p>अब अंतिम समूह पर यही लॉजिक लगाते हैं:<br>समूह 4: $14, (14 \\times 2 = 28), (28 \\times 2 = \\mathbf{56})$ होना चाहिए।<br>हालाँकि, दिए गए समूह के अंत में 56 की जगह <strong>43</strong> है। इसलिए (14, 28, 43) बेमेल (Odd one out) है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> नंबर ग्रुपिंग वाले सवालों में ज़्यादातर अंदरूनी अनुपात (रेशियो), एक ही संख्या से गुणा (Geometric progression) या एक ही संख्या जोड़ने का पैटर्न काम करता है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1019,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "If WRITE is coded as YTKVG, how is READ coded?",
+      "post_title": "WRITE is coded as YTKVG...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "TGCF",
+            "image": ""
+          },
+          {
+            "text": "ZTCF",
+            "image": ""
+          },
+          {
+            "text": "YTDF",
+            "image": ""
+          },
+          {
+            "text": "YTCF",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: TGCF</strong></p><p>Let's uncover the secret coding rule by examining how WRITE translates into YTKVG.</p><p>The logic is a constant shift of <strong>+2</strong> for every single letter:<br>W(+2) = Y<br>R(+2) = T<br>I(+2) = K<br>T(+2) = V<br>E(+2) = G</p><p>Now we simply enforce this proven '+2' rule onto the word <strong>READ</strong>:<br>R(+2) = <strong>T</strong><br>E(+2) = <strong>G</strong><br>A(+2) = <strong>C</strong><br>D(+2) = <strong>F</strong></p><p>Putting it all together, the finalized code is <strong>TGCF</strong>.</p><ul><li><strong>Extra Fact:</strong> Forward shifting letters by a set number is known as a substitution cipher. Writing down the alphabet numbered from 1 to 26 beforehand eliminates counting errors in exams!</li></ul>",
+        "_aimcq_title_hi": "WRITE को YTKVG लिखा जाता है...",
+        "_aimcq_question_content_hi": "यदि WRITE को YTKVG लिखा जाता है, तो READ को किस प्रकार लिखा जाएगा?",
+        "_aimcq_options_hi": [
+          {
+            "text": "TGCF",
+            "image": ""
+          },
+          {
+            "text": "ZTCF",
+            "image": ""
+          },
+          {
+            "text": "YTDF",
+            "image": ""
+          },
+          {
+            "text": "YTCF",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: TGCF</strong></p><p>आइए देखते हैं कि WRITE शब्द को YTKVG में कैसे बदला गया है।</p><p>लॉजिक बहुत सीधा है: हर अक्षर में <strong>+2</strong> स्थान आगे बढ़ना है:<br>W(+2) = Y<br>R(+2) = T<br>I(+2) = K<br>T(+2) = V<br>E(+2) = G</p><p>अब इस +2 वाले नियम को <strong>READ</strong> शब्द पर लागू करते हैं:<br>R(+2) = <strong>T</strong><br>E(+2) = <strong>G</strong><br>A(+2) = <strong>C</strong><br>D(+2) = <strong>F</strong></p><p>इन सभी अक्षरों को मिलाने पर अंतिम कोड <strong>TGCF</strong> बनता है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> अक्षरों को एक निश्चित संख्या से आगे बढ़ाने वाली तकनीक को सब्स्टीट्यूशन साइफर (Substitution cipher) कहा जाता है। परीक्षा में पहले से ही A से Z तक 1 से 26 लिखकर रखने से गलती होने की गुंजाइश खत्म हो जाती है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1020,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "If 5 # 3 = 19 and 7 # 2 = 17, what is 9 # 1 ?",
+      "post_title": "If 5 # 3 = 19 and 7 # 2 = 17, what is 9 # 1 ?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "12",
+            "image": ""
+          },
+          {
+            "text": "10",
+            "image": ""
+          },
+          {
+            "text": "8",
+            "image": ""
+          },
+          {
+            "text": "11",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 11</strong></p><p>Let's decode the concealed mathematical operation disguised by the '#' symbol. By analyzing the inputs, the hidden formula is <strong>$b \\times (a + 1) + 1$</strong>, or alternatively, <strong>$(a \\times b) + b + 1$</strong>.</p><p>Let's verify this rule:<br>For 5 # 3 &rarr; $(5 \\times 3) + 3 + 1 = 15 + 4 = 19$. (Matches perfectly!)<br>For 7 # 2 &rarr; $(7 \\times 2) + 2 + 1 = 14 + 3 = 17$. (Matches perfectly!)</p><p>Now apply this solid logic to find the answer for 9 # 1:<br>Calculation: $(9 \\times 1) + 1 + 1 = 9 + 2 = <strong>11</strong>$.</p><ul><li><strong>Extra Fact:</strong> In competitive logic exams, mathematical symbols like '#' don't mean their traditional definitions. They act as \"dummy operators\" forcing you to deduce a custom algebraic formula linking the provided numbers!</li></ul>",
+        "_aimcq_title_hi": "यदि 5 # 3 = 19 और 7 # 2 = 17, तो 9 # 1 क्या है?",
+        "_aimcq_question_content_hi": "यदि 5 # 3 = 19 और 7 # 2 = 17, तो 9 # 1 क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "12",
+            "image": ""
+          },
+          {
+            "text": "10",
+            "image": ""
+          },
+          {
+            "text": "8",
+            "image": ""
+          },
+          {
+            "text": "11",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: 11</strong></p><p>आइए '#' प्रतीक के पीछे छिपे हुए गणितीय नियम को डिकोड करते हैं। पैटर्न का विश्लेषण करने पर छिपा हुआ फॉर्मूला <strong>$(a \\times b) + b + 1$</strong> निकलता है।</p><p>आइए इस नियम की जाँच करते हैं:<br>5 # 3 के लिए &rarr; $(5 \\times 3) + 3 + 1 = 15 + 4 = 19$. (बिल्कुल सही!)<br>7 # 2 के लिए &rarr; $(7 \\times 2) + 2 + 1 = 14 + 3 = 17$. (बिल्कुल सही!)</p><p>अब इस पक्के लॉजिक को 9 # 1 का उत्तर खोजने के लिए लागू करें:<br>गणना: $(9 \\times 1) + 1 + 1 = 9 + 2 = <strong>11</strong>$.</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> रीजनिंग में #, @ या $ जैसे चिन्हों का कोई फिक्स गणितीय अर्थ नहीं होता। इन्हें 'डमी ऑपरेटर' कहा जाता है। आपका काम इन चिन्हों की जगह असली फॉर्मूला खोजना होता है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1021,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "A 60 L mixture has a milk-water ratio of 7:3. How much water to add to make the ratio 1:1?",
+      "post_title": "Mixture Ratio: 60L milk-water...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "18 L",
+            "image": ""
+          },
+          {
+            "text": "20 L",
+            "image": ""
+          },
+          {
+            "text": "22 L",
+            "image": ""
+          },
+          {
+            "text": "24 L",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 24 L</strong></p><p>Let's break down the mixture mathematically based on the initial ratio.</p><p>Step 1: The total mixture is 60 L. The milk-to-water ratio is 7:3 (which equals 10 total parts).<br>Value of 1 part = $60 / 10 = 6$ L.<br>Current Milk = $7 \\times 6 = 42$ L.<br>Current Water = $3 \\times 6 = 18$ L.</p><p>Step 2: The goal is to make the ratio 1:1, meaning the volume of water must exactly equal the volume of milk (42 L).<br>Since we only add water, the milk remains 42 L. Therefore, the water must be increased to 42 L.</p><p>Step 3: Calculate the required addition.<br>Water to add = Target Water - Current Water<br>Water to add = $42 - 18 = <strong>24 L</strong>$.</p><ul><li><strong>Extra Fact:</strong> Ratios are simply fractions of a whole. Breaking down the total quantity into a \"single part value\" (like 6L here) is the fastest mental math shortcut for mixture problems!</li></ul>",
+        "_aimcq_title_hi": "60 लीटर के मिश्रण में...",
+        "_aimcq_question_content_hi": "60 लीटर के मिश्रण में दूध-पानी का अनुपात 7:3 है। अनुपात 1:1 करने के लिए कितना पानी मिलाना चाहिए?",
+        "_aimcq_options_hi": [
+          {
+            "text": "18 लीटर",
+            "image": ""
+          },
+          {
+            "text": "20 लीटर",
+            "image": ""
+          },
+          {
+            "text": "22 लीटर",
+            "image": ""
+          },
+          {
+            "text": "24 लीटर",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: 24 लीटर</strong></p><p>आइए दिए गए अनुपात के आधार पर मिश्रण को गणितीय रूप से समझते हैं।</p><p>चरण 1: कुल मिश्रण 60 लीटर है। दूध और पानी का अनुपात 7:3 है (यानी कुल 10 हिस्से)।<br>1 हिस्से का मान = $60 / 10 = 6$ लीटर।<br>वर्तमान में दूध = $7 \\times 6 = 42$ लीटर।<br>वर्तमान में पानी = $3 \\times 6 = 18$ लीटर।</p><p>चरण 2: हमारा लक्ष्य अनुपात को 1:1 बनाना है, जिसका अर्थ है कि पानी की मात्रा दूध की मात्रा (42 लीटर) के बिल्कुल बराबर होनी चाहिए।<br>चूंकि हम केवल पानी मिला रहे हैं, दूध 42 लीटर ही रहेगा। इसलिए पानी को बढ़ाकर 42 लीटर करना होगा।</p><p>चरण 3: मिलाए जाने वाले पानी की गणना करें।<br>मिलाया जाने वाला पानी = लक्ष्य मात्रा - वर्तमान मात्रा<br>मिलाया जाने वाला पानी = $42 - 18 = <strong>24 लीटर</strong>$.</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> अनुपात (Ratios) किसी भी कुल मात्रा के हिस्से होते हैं। पूरी मात्रा को \"एक हिस्से के मान\" (जैसे यहाँ 6 लीटर) में तोड़ लेना, मिश्रण (Mixture) के सवालों को बिना पेन-पेपर के हल करने की सबसे तेज़ ट्रिक है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1022,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Pointing to a girl, Aryan said, \"She is the daughter of the only child of my grandmother.\" How is the girl related to Aryan?",
+      "post_title": "Blood Relation: Pointing to a girl...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Niece",
+            "image": ""
+          },
+          {
+            "text": "Cousin",
+            "image": ""
+          },
+          {
+            "text": "Sister",
+            "image": ""
+          },
+          {
+            "text": "Aunt",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: Sister</strong></p><p>Let's resolve the relational phrases step-by-step.</p><p>Part 1: \"only child of my grandmother\"<br>Aryan is speaking. The only child of Aryan's grandmother has to be Aryan's own parent (his father or his mother).</p><p>Part 2: \"daughter of [the only child]\"<br>This translates to the \"daughter of Aryan's parent\". <br>The daughter of one's own parent is mathematically and logically one's own <strong>Sister</strong>.</p><p>Therefore, the girl is Aryan's sister.</p><ul><li><strong>Extra Fact:</strong> The phrase \"only child of my grandparent\" is a common trap! Depending on whether it's paternal or maternal, it strictly refers to your father or your mother. From there, the relations become direct family.</li></ul>",
+        "_aimcq_title_hi": "एक लड़‌की की ओर इशारा करते हुए...",
+        "_aimcq_question_content_hi": "एक लड़‌की की ओर इशारा करते हुए आर्यन ने कहा, \"वह मेरी दादी की इकलौती संतान की बेटी है।\" वह लड़की आर्यन से किस प्रकार संबंधित है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भतीजी",
+            "image": ""
+          },
+          {
+            "text": "चचेरा",
+            "image": ""
+          },
+          {
+            "text": "बहन",
+            "image": ""
+          },
+          {
+            "text": "चाची",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: बहन (Sister)</strong></p><p>आइए पारिवारिक वाक्यों को एक-एक करके सुलझाते हैं।</p><p>भाग 1: \"मेरी दादी की इकलौती संतान\"<br>यहाँ आर्यन बोल रहा है। आर्यन की दादी की इकलौती संतान आर्यन के अपने पिता (या माता) ही होंगे।</p><p>भाग 2: \"[इकलौती संतान] की बेटी\"<br>इसका अर्थ है \"आर्यन के पिता (या माता) की बेटी\"।<br>किसी भी व्यक्ति के अपने माता-पिता की बेटी तार्किक रूप से उस व्यक्ति की अपनी सगी <strong>बहन (Sister)</strong> होती है।</p><p>इसलिए, वह लड़की आर्यन की बहन है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> \"मेरे दादा/दादी की इकलौती संतान\" एक बहुत ही आम ट्रिक है! इसका सीधा सा मतलब आपके अपने पिता या माता से होता है। इसके बाद के रिश्ते सीधे आपके अपने परिवार (भाई/बहन) के हो जाते हैं।</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1023,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Ramesh says, \"The boy playing football is the younger of the two sons of my father's wife.\" How is the boy related to Ramesh?",
+      "post_title": "Blood Relation: Ramesh says...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Brother",
+            "image": ""
+          },
+          {
+            "text": "Stepbrother",
+            "image": ""
+          },
+          {
+            "text": "Cousin",
+            "image": ""
+          },
+          {
+            "text": "Nephew",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: Brother</strong></p><p>Let's decode the relationships stated by Ramesh.</p><p>Part 1: \"my father's wife\"<br>The wife of Ramesh's father is simply Ramesh's <strong>mother</strong>.</p><p>Part 2: \"the two sons of my [mother]\"<br>The two sons of Ramesh's mother are Ramesh himself and his male sibling.</p><p>Part 3: \"younger of the two sons\"<br>Since Ramesh is speaking about another boy who is one of these two sons, the boy must be Ramesh's younger sibling.</p><p>Therefore, the boy is Ramesh's <strong>Brother</strong>.</p><ul><li><strong>Extra Fact:</strong> In reasoning tests, terms like \"father's wife\", \"mother's husband\", or \"son's sister\" are deliberately used to force you to construct a mental family tree instead of reading direct relations!</li></ul>",
+        "_aimcq_title_hi": "रमेश कहता है, \"फुटबॉल खेलने वाला...",
+        "_aimcq_question_content_hi": "रमेश कहता है, \"फुटबॉल खेलने वाला लड़का मेरे पिता की पत्नी के दो बेटों में से छोटा है।\" वह लड़‌का रमेश से किस प्रकार संबंधित है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भाई",
+            "image": ""
+          },
+          {
+            "text": "सौतेला भाई",
+            "image": ""
+          },
+          {
+            "text": "चचेरा",
+            "image": ""
+          },
+          {
+            "text": "भतीजा",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: भाई (Brother)</strong></p><p>आइए रमेश द्वारा बताए गए रिश्तों को डिकोड करते हैं।</p><p>भाग 1: \"मेरे पिता की पत्नी\"<br>रमेश के पिता की पत्नी और कोई नहीं, बल्कि रमेश की अपनी <strong>माँ</strong> है।</p><p>भाग 2: \"मेरी [माँ] के दो बेटे\"<br>रमेश की माँ के दो बेटे हैं—एक स्वयं रमेश और दूसरा उसका भाई।</p><p>भाग 3: \"दो बेटों में से छोटा\"<br>चूँकि रमेश एक लड़के के बारे में बता रहा है जो इन्हीं दो बेटों में से एक है, तो जाहिर है वह रमेश का छोटा सगा भाई है।</p><p>अतः वह लड़का रमेश का <strong>भाई (Brother)</strong> है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> रीजनिंग की परीक्षाओं में \"पिता की पत्नी\", \"माँ का पति\" या \"बेटे की बहन\" जैसे शब्दों का जानबूझकर उपयोग किया जाता है ताकि आप सीधे रिश्ते पढ़ने के बजाय दिमाग में फैमिली ट्री बनाने पर मजबूर हों!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1024,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "If 11/19 = A and 2/9 = B, then what is A - B?",
+      "post_title": "If 11/19 = A and 2/9 = B...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "0.36",
+            "image": ""
+          },
+          {
+            "text": "0.56",
+            "image": ""
+          },
+          {
+            "text": "0.76",
+            "image": ""
+          },
+          {
+            "text": "0.6",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 0.36</strong></p><p>This is an arithmetic problem requiring fraction subtraction and decimal conversion.</p><p>Given variables: $A = \\frac{11}{19}$ and $B = \\frac{2}{9}$.</p><p>First, find the decimal values for A and B:<br>$A = 11 \\div 19 \\approx 0.5789$<br>$B = 2 \\div 9 \\approx 0.2222$</p><p>Now, calculate the mathematical difference $(A - B)$:<br>$0.5789 - 0.2222 = 0.3567$.</p><p>Rounding this result off to two decimal places, we get <strong>0.36</strong>, which matches the options perfectly.</p><ul><li><strong>Extra Fact:</strong> For speed in competitive exams, you can use the cross-multiplication method for fractions: $\\frac{11}{19} - \\frac{2}{9} = \\frac{(11 \\times 9) - (19 \\times 2)}{(19 \\times 9)} = \\frac{(99 - 38)}{171} = \\frac{61}{171} \\approx 0.356$.</li></ul>",
+        "_aimcq_title_hi": "यदि 11/19 A और 2/9 B है...",
+        "_aimcq_question_content_hi": "यदि 11/19 = A और 2/9 = B है, तो A - B क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "0.36",
+            "image": ""
+          },
+          {
+            "text": "0.56",
+            "image": ""
+          },
+          {
+            "text": "0.76",
+            "image": ""
+          },
+          {
+            "text": "0.6",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: 0.36</strong></p><p>यह भिन्न (fraction) घटाव और दशमलव रूपांतरण का एक अंकगणितीय प्रश्न है।</p><p>दिए गए चर: $A = \\frac{11}{19}$ और $B = \\frac{2}{9}$.</p><p>सबसे पहले, A और B के दशमलव मान निकालें:<br>$A = 11 \\div 19 \\approx 0.5789$<br>$B = 2 \\div 9 \\approx 0.2222$</p><p>अब, गणितीय अंतर $(A - B)$ की गणना करें:<br>$0.5789 - 0.2222 = 0.3567$.</p><p>इस परिणाम को दो दशमलव स्थानों (two decimal places) तक राउंड-ऑफ करने पर <strong>0.36</strong> मिलता है, जो विकल्पों से बिल्कुल मेल खाता है।</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> प्रतियोगी परीक्षाओं में गति के लिए, आप भिन्नों को क्रॉस-मल्टीप्लाई कर सकते हैं: $\\frac{11}{19} - \\frac{2}{9} = \\frac{(11 \\times 9) - (19 \\times 2)}{(19 \\times 9)} = \\frac{(99 - 38)}{171} = \\frac{61}{171} \\approx 0.356$.</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1025,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "If the sum of 35 and 46 is multiplied by 2, what is the result?",
+      "post_title": "Sum of 35 and 46 multiplied by 2...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "158",
+            "image": ""
+          },
+          {
+            "text": "160",
+            "image": ""
+          },
+          {
+            "text": "162",
+            "image": ""
+          },
+          {
+            "text": "164",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "<p><strong>Correct Answer: 162</strong></p><p>This is a fundamental arithmetic problem that tests your ability to interpret mathematical language into the correct BODMAS order of operations.</p><p>Step 1: Translate the phrase \"the sum of 35 and 46\" into a bracketed expression, as the sum must be evaluated first.<br>Expression: $(35 + 46)$</p><p>Step 2: Calculate the sum inside the brackets.<br>$35 + 46 = 81$.</p><p>Step 3: Multiply this result by 2 as instructed.<br>Result = $81 \\times 2 = <strong>162</strong>$.</p><ul><li><strong>Extra Fact:</strong> The rule of BODMAS (Brackets first) is crucial here. If written incorrectly without brackets as $35 + 46 \\times 2$, a calculator would process the multiplication first, yielding an incorrect answer of 127!</li></ul>",
+        "_aimcq_title_hi": "यदि 35 और 46 के योग को...",
+        "_aimcq_question_content_hi": "यदि 35 और 46 के योग को 2 से गुणा किया जाए तो परिणाम क्या होगा?",
+        "_aimcq_options_hi": [
+          {
+            "text": "158",
+            "image": ""
+          },
+          {
+            "text": "160",
+            "image": ""
+          },
+          {
+            "text": "162",
+            "image": ""
+          },
+          {
+            "text": "164",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": "<p><strong>सही उत्तर: 162</strong></p><p>यह एक बुनियादी अंकगणितीय समस्या है जो गणितीय भाषा को सही BODMAS (बोडमास) नियम में बदलने की आपकी क्षमता का परीक्षण करती है।</p><p>चरण 1: वाक्य \"35 और 46 का योग\" को कोष्ठक (brackets) वाले समीकरण में बदलें, क्योंकि जोड़ का काम सबसे पहले होना चाहिए।<br>समीकरण: $(35 + 46)$</p><p>चरण 2: कोष्ठक के अंदर का योग (Sum) निकालें।<br>$35 + 46 = 81$.</p><p>चरण 3: निर्देश के अनुसार, इस परिणाम को 2 से गुणा करें।<br>अंतिम परिणाम = $81 \\times 2 = <strong>162</strong>$.</p><ul><li><strong>एक्स्ट्रा फैक्ट (Extra Fact):</strong> यहाँ BODMAS (सबसे पहले कोष्ठक) का नियम बहुत महत्वपूर्ण है। यदि इसे बिना कोष्ठक के $35 + 46 \\times 2$ लिखा जाए, तो मशीन पहले गुणा कर देगी और उत्तर 127 आ जाएगा जो कि गलत है!</li></ul>"
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
