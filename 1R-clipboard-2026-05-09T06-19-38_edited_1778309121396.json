@@ -1,0 +1,1527 @@
+{
+  "version": "1.8.0",
+  "export_type": "topic_bundle",
+  "terms": [
+    {
+      "taxonomy": "topic",
+      "name": "General Intelligence (GI)",
+      "slug": "general-intelligence-gi",
+      "parent": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 1001,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>In the following question, select the related word from the given alternatives: </div><div>Jurisprudence : Law :: Epistemology : ?</div>",
+      "post_title": "<div>In the following question, select the related word from the given alternatives: </div><div>Jurisprudence : Law :: Epistemology : ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Reality",
+            "image": ""
+          },
+          {
+            "text": "Logic",
+            "image": ""
+          },
+          {
+            "text": "Knowledge",
+            "image": ""
+          },
+          {
+            "text": "Ethics",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "<div>निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित शब्द का चयन करें: </div><div>न्यायशास्त्र : कानून :: ज्ञानमीमांसा : ?</div>",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित शब्द का चयन करें: </div><div>न्यायशास्त्र : कानून :: ज्ञानमीमांसा : ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "वास्तविकता",
+            "image": ""
+          },
+          {
+            "text": "तर्क",
+            "image": ""
+          },
+          {
+            "text": "ज्ञान",
+            "image": ""
+          },
+          {
+            "text": "नीति",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1002,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "How many letters in \"SIGNATURE\" are between the first vowel and the last consonant?",
+      "post_title": "Letters in SIGNATURE between first vowel...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          },
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "6",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "\"SIGNATURE\" में पहले स्वर और अंतिम व्यंजन...",
+        "_aimcq_question_content_hi": "\"SIGNATURE\" में पहले स्वर और अंतिम व्यंजन के बीच कितने अक्षर हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          },
+          {
+            "text": "5",
+            "image": ""
+          },
+          {
+            "text": "6",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1003,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </div><div>MNK, NOJ, OPI, PQH, ?</div>",
+      "post_title": "<div>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </div><div>MNK, NOJ, OPI, PQH, ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "GFD",
+            "image": ""
+          },
+          {
+            "text": "HJG",
+            "image": ""
+          },
+          {
+            "text": "QRG",
+            "image": ""
+          },
+          {
+            "text": "LUH",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "<div>दिए गए विकल्पों में से उस अक्षर-समूह का चयन करें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर आ सकता है। </div><div>MNK, NOJ, OPI, PQH, ?</div>",
+        "_aimcq_question_content_hi": "<div>दिए गए विकल्पों में से उस अक्षर-समूह का चयन करें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) के स्थान पर आ सकता है। </div><div>MNK, NOJ, OPI, PQH, ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "GFD",
+            "image": ""
+          },
+          {
+            "text": "HJG",
+            "image": ""
+          },
+          {
+            "text": "QRG",
+            "image": ""
+          },
+          {
+            "text": "LUH",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1004,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </div><div>QAZ, SDF, UGL, ?</div>",
+      "post_title": "<div>Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. </div><div>QAZ, SDF, UGL, ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "VIJ",
+            "image": ""
+          },
+          {
+            "text": "TFG",
+            "image": ""
+          },
+          {
+            "text": "TGH",
+            "image": ""
+          },
+          {
+            "text": "WJR",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "<div>दिए गए विकल्पों में से उस अक्षर-समूह का चयन करें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) को प्रतिस्थापित कर सके। </div><div>QAZ, SDF, UGL, ?</div>",
+        "_aimcq_question_content_hi": "<div>दिए गए विकल्पों में से उस अक्षर-समूह का चयन करें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) को प्रतिस्थापित कर सके। </div><div>QAZ, SDF, UGL, ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "VIJ",
+            "image": ""
+          },
+          {
+            "text": "TFG",
+            "image": ""
+          },
+          {
+            "text": "TGH",
+            "image": ""
+          },
+          {
+            "text": "WJR",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1005,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>Which of the following alternatives will replace the question mark? </div><div>Chaos, Conflict, Negotiation, Resolution, ?</div>",
+      "post_title": "<div>Which of the following alternatives will replace the question mark? </div><div>Chaos, Conflict, Negotiation, Resolution, ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Justice",
+            "image": ""
+          },
+          {
+            "text": "Harmony",
+            "image": ""
+          },
+          {
+            "text": "Stability",
+            "image": ""
+          },
+          {
+            "text": "Law",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "<div>निम्नलिखित में से कौन सा विकल्प प्रश्न चिह्न की जगह लेगा? </div><div>अराजकता, संघर्ष, बातचीत, समाधान, ?</div>",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित में से कौन सा विकल्प प्रश्न चिह्न की जगह लेगा? </div><div>अराजकता, संघर्ष, बातचीत, समाधान, ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "न्याय",
+            "image": ""
+          },
+          {
+            "text": "सद्भाव",
+            "image": ""
+          },
+          {
+            "text": "स्थिरता",
+            "image": ""
+          },
+          {
+            "text": "कानून",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1006,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Which word does not belong to the category? ",
+      "post_title": "Which word does not belong to the category? ",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Hibiscus",
+            "image": ""
+          },
+          {
+            "text": "Tulip",
+            "image": ""
+          },
+          {
+            "text": "Apple",
+            "image": ""
+          },
+          {
+            "text": "Daisy",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "कौन सा शब्द इस श्रेणी से संबंधित नहीं है?",
+        "_aimcq_question_content_hi": "कौन सा शब्द इस श्रेणी से संबंधित नहीं है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "हिबिस्कुस",
+            "image": ""
+          },
+          {
+            "text": "ट्यूलिप",
+            "image": ""
+          },
+          {
+            "text": "सेब",
+            "image": ""
+          },
+          {
+            "text": "गुलबहार",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1007,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "What comes next: 0, 6, 24, 60, 120, ?",
+      "post_title": "0, 6, 24, 60, 120, ?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "196",
+            "image": ""
+          },
+          {
+            "text": "156",
+            "image": ""
+          },
+          {
+            "text": "210",
+            "image": ""
+          },
+          {
+            "text": "200",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "0, 6, 24, 60, 120, ?",
+        "_aimcq_question_content_hi": "इसके बाद क्या आएगा: 0, 6, 24, 60, 120, ?",
+        "_aimcq_options_hi": [
+          {
+            "text": "196",
+            "image": ""
+          },
+          {
+            "text": "156",
+            "image": ""
+          },
+          {
+            "text": "210",
+            "image": ""
+          },
+          {
+            "text": "200",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1008,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "What should come at the place of question mark? 3, 4, 13, 14, 45, 46, ?",
+      "post_title": "3, 4, 13, 14, 45, 46, ?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "143",
+            "image": ""
+          },
+          {
+            "text": "136",
+            "image": ""
+          },
+          {
+            "text": "140",
+            "image": ""
+          },
+          {
+            "text": "138",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "3, 4, 13, 14, 45, 46, ?",
+        "_aimcq_question_content_hi": "प्रश्नवाचक चिन्ह के स्थान पर क्या आएगा? 3, 4, 13, 14, 45, 46, ?",
+        "_aimcq_options_hi": [
+          {
+            "text": "143",
+            "image": ""
+          },
+          {
+            "text": "136",
+            "image": ""
+          },
+          {
+            "text": "140",
+            "image": ""
+          },
+          {
+            "text": "138",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1009,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Read the following statement carefully and identify the conclusion that follows.\n<div><b>Statement:</b> No student of Class X failed the science exam this year.\n</div><div><b>Conclusions:</b>\n</div>I. The science exam was very easy.\n<div>II. All students of Class X passed science.</div>",
+      "post_title": "Read the following statement carefully and identify the conclusion that follows.\n<div><b>Statement:</b> No student of Class X failed the science exam this year.\n</div><div><b>Conclusions:</b>\n</div>I. The science exam was very easy.\n<div>II. All students of Class X passed science.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Only Conclusion I follows",
+            "image": ""
+          },
+          {
+            "text": "Only Conclusion II follows",
+            "image": ""
+          },
+          {
+            "text": "Both I and II follow",
+            "image": ""
+          },
+          {
+            "text": "Neither I nor II follows",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "निम्नलिखित कथन को ध्यानपूर्वक पढ़ें और निष्कर्ष निकालें।\n<div><b>कथनः</b> इस वर्ष दसवीं कक्षा का कोई भी छात्र विज्ञान की परीक्षा में अनुत्तीर्ण नहीं हुआ।\n</div><div><b>निष्कर्षः</b>\n</div>I. विज्ञान की परीक्षा बहुत आसान थी।\n<div>II. दसवीं कक्षा के सभी छात्र विज्ञान में उत्तीर्ण हुए।</div>",
+        "_aimcq_question_content_hi": "निम्नलिखित कथन को ध्यानपूर्वक पढ़ें और निष्कर्ष निकालें।\n<div><b>कथनः</b> इस वर्ष दसवीं कक्षा का कोई भी छात्र विज्ञान की परीक्षा में अनुत्तीर्ण नहीं हुआ।\n</div><div><b>निष्कर्षः</b>\n</div>I. विज्ञान की परीक्षा बहुत आसान थी।\n<div>II. दसवीं कक्षा के सभी छात्र विज्ञान में उत्तीर्ण हुए।</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल निष्कर्ष I अनुसरण करता है",
+            "image": ""
+          },
+          {
+            "text": "केवल निष्कर्ष II अनुसरण करता है",
+            "image": ""
+          },
+          {
+            "text": "I और II दोनों अनुसरण करते हैं",
+            "image": ""
+          },
+          {
+            "text": "न तो I और न ही II अनुसरण करता है",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1010,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div><b>Instruction:</b> Identify the assumptions that must hold for the statement to be valid, then choose the correct option.</div><div><b>Statement:</b> Although recent advancements in quantum computing have significantly improved processing speeds, the stability of quantum states remains a critical barrier to developing large-scale quantum computers for practical applications.</div><div><b>Assumptions:</b>\n</div>I. Quantum computing holds the potential for faster data processing than classical computing.\n<div>II. Quantum states are inherently unstable, making large-scale quantum computing unfeasible.\n</div><div>III. Recent advancements in quantum computing have resolved the issue of quantum state stability.</div>",
+      "post_title": "<div><b>Instruction:</b> Identify the assumptions that must hold for the statement to be valid, then choose the correct option.</div><div><b>Statement:</b> Although recent advancements in quantum computing have significantly improved processing speeds, the stability of quantum states remains a critical barrier to developing large-scale quantum computers for practical applications.</div><div><b>Assumptions:</b>\n</div>I. Quantum computing holds the potential for faster data processing than classical computing.\n<div>II. Quantum states are inherently unstable, making large-scale quantum computing unfeasible.\n</div><div>III. Recent advancements in quantum computing have resolved the issue of quantum state stability.</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Only I and II are implicit",
+            "image": ""
+          },
+          {
+            "text": "Only II and III are implicit",
+            "image": ""
+          },
+          {
+            "text": "Only I is implicit",
+            "image": ""
+          },
+          {
+            "text": "All I, II, and III are implicit",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "<b>निर्देशः</b> कथन के वैध होने के लिए आवश्यक मान्यताओं की पहचान करें, फिर सही विकल्प चुनें।\n<div><b>कथनः</b> हालांकि क्वांटम कंप्यूटिंग में हाल ही में हुई प्रगति ने प्रसंस्करण गति में उल्लेखनीय सुधार किया है, लेकिन क्वांटम अवस्थाओं की स्थिरता व्यावहारिक अनुप्रयोगों के लिए बड़े पैमाने पर क्वांटम कंप्यूटर विकसित करने में एक महत्वपूर्ण बाधा बनी हुई है।\n</div><div><b>मान्यताएँ:</b>\n</div>I. क्वांटम कंप्यूटिंग में शास्त्रीय कंप्यूटिंग की तुलना में तेज़ डेटा प्रोसेसिंग की क्षमता है।\n<div>II. क्वांटम अवस्थाएँ स्वाभाविक रूप से अस्थिर होती हैं, जिससे बड़े पैमाने पर क्वांटम कंप्यूटिंग अव्यवहारिक हो जाती है।\n</div><div>III. क्वांटम कंप्यूटिंग में हाल ही में हुई प्रगति ने क्वांटम अवस्था स्थिरता के मुद्दे को हल कर दिया है।</div>",
+        "_aimcq_question_content_hi": "<b>निर्देशः</b> कथन के वैध होने के लिए आवश्यक मान्यताओं की पहचान करें, फिर सही विकल्प चुनें।\n<div><b>कथनः</b> हालांकि क्वांटम कंप्यूटिंग में हाल ही में हुई प्रगति ने प्रसंस्करण गति में उल्लेखनीय सुधार किया है, लेकिन क्वांटम अवस्थाओं की स्थिरता व्यावहारिक अनुप्रयोगों के लिए बड़े पैमाने पर क्वांटम कंप्यूटर विकसित करने में एक महत्वपूर्ण बाधा बनी हुई है।\n</div><div><b>मान्यताएँ:</b>\n</div>I. क्वांटम कंप्यूटिंग में शास्त्रीय कंप्यूटिंग की तुलना में तेज़ डेटा प्रोसेसिंग की क्षमता है।\n<div>II. क्वांटम अवस्थाएँ स्वाभाविक रूप से अस्थिर होती हैं, जिससे बड़े पैमाने पर क्वांटम कंप्यूटिंग अव्यवहारिक हो जाती है।\n</div><div>III. क्वांटम कंप्यूटिंग में हाल ही में हुई प्रगति ने क्वांटम अवस्था स्थिरता के मुद्दे को हल कर दिया है।</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल I और II निहित हैं",
+            "image": ""
+          },
+          {
+            "text": "केवल II और III अंतर्निहित हैं",
+            "image": ""
+          },
+          {
+            "text": "केवल I निहित है",
+            "image": ""
+          },
+          {
+            "text": "सभी I, II और III निहित हैं",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1011,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Each of the letters in the word GARDEN is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is fifth from the left and the one that is third from the right in the new letter-cluster formed?",
+      "post_title": "Each of the letters in the word GARDEN is arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter that is fifth from the left and the one that is third from the right in the new letter-cluster formed?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Two",
+            "image": ""
+          },
+          {
+            "text": "Four",
+            "image": ""
+          },
+          {
+            "text": "Six",
+            "image": ""
+          },
+          {
+            "text": "One",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "GARDEN शब्द के प्रत्येक अक्षर को वर्णानुक्रम में व्यवस्थित किया गया है। नए अक्षर-समूह में बाएँ से पाँचवें अक्षर और दाएँ से तीसरे अक्षर के बीच अंग्रेज़ी वर्णमाला श्रृंखला में कितने अक्षर हैं?",
+        "_aimcq_question_content_hi": "GARDEN शब्द के प्रत्येक अक्षर को वर्णानुक्रम में व्यवस्थित किया गया है। नए अक्षर-समूह में बाएँ से पाँचवें अक्षर और दाएँ से तीसरे अक्षर के बीच अंग्रेज़ी वर्णमाला श्रृंखला में कितने अक्षर हैं?",
+        "_aimcq_options_hi": [
+          {
+            "text": "दो",
+            "image": ""
+          },
+          {
+            "text": "चार",
+            "image": ""
+          },
+          {
+            "text": "छह",
+            "image": ""
+          },
+          {
+            "text": "एक",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1012,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "How many meaningful four-letter English words can be formed using the first, second, fourth, and fifth letters of the word \"ELEVATE\" (when counted from left to right), using each letter only once in each word?",
+      "post_title": "How many meaningful four-letter English words can be formed using the first, second, fourth, and fifth letters of the word \"ELEVATE\" (when counted from left to right), using each letter only once in each word?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "1",
+            "image": ""
+          },
+          {
+            "text": "2",
+            "image": ""
+          },
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "\"ELEVATE\" शब्द के पहले, दूसरे, चौथे और पांचवें अक्षरों का उपयोग करके (बाएं से दाएं गिनने पर) कितने सार्थक चार-अक्षर वाले अंग्रेजी शब्द बनाए जा सकते हैं, जिनमें प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग किया गया हो?",
+        "_aimcq_question_content_hi": "\"ELEVATE\" शब्द के पहले, दूसरे, चौथे और पांचवें अक्षरों का उपयोग करके (बाएं से दाएं गिनने पर) कितने सार्थक चार-अक्षर वाले अंग्रेजी शब्द बनाए जा सकते हैं, जिनमें प्रत्येक शब्द में प्रत्येक अक्षर का केवल एक बार उपयोग किया गया हो?",
+        "_aimcq_options_hi": [
+          {
+            "text": "1",
+            "image": ""
+          },
+          {
+            "text": "2",
+            "image": ""
+          },
+          {
+            "text": "3",
+            "image": ""
+          },
+          {
+            "text": "4",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1013,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Which of the following is/are identical to the address given: Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018\n<div>1. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018\n</div><div>2. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302019\n</div><div>3. Rajesh Verma 15B, Sapphire Tower, Jaipur, 302018\n</div><div>4. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302017</div>",
+      "post_title": "Which of the following is/are identical to the address given: Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018\n<div>1. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302018\n</div><div>2. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302019\n</div><div>3. Rajesh Verma 15B, Sapphire Tower, Jaipur, 302018\n</div><div>4. Rajesh Verma 15B, Sapphire Towers, Jaipur, 302017</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "2 Only",
+            "image": ""
+          },
+          {
+            "text": "1 Only",
+            "image": ""
+          },
+          {
+            "text": "4 Only",
+            "image": ""
+          },
+          {
+            "text": "3 Only",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "निम्नलिखित में से कौन सा/से पते दिए गए पते के समान है/हैं: राजेश वर्मा 15 बी, सफायर टावर्स, जयपुर, 302018\n<div>1. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302018\n</div><div>2. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302019\n</div><div>3. राजेश वर्मा 15बी, सफायर टावर, जयपुर, 302018\n</div><div>4. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302017</div>",
+        "_aimcq_question_content_hi": "निम्नलिखित में से कौन सा/से पते दिए गए पते के समान है/हैं: राजेश वर्मा 15 बी, सफायर टावर्स, जयपुर, 302018\n<div>1. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302018\n</div><div>2. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302019\n</div><div>3. राजेश वर्मा 15बी, सफायर टावर, जयपुर, 302018\n</div><div>4. राजेश वर्मा 15बी, सफायर टावर्स, जयपुर, 302017</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "केवल 2",
+            "image": ""
+          },
+          {
+            "text": "केवल 1",
+            "image": ""
+          },
+          {
+            "text": "केवल 4",
+            "image": ""
+          },
+          {
+            "text": "केवल 3",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          1
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1014,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Find the option that best completes the analogy.\n<div>EK : MS :: FP : ?</div>",
+      "post_title": "Find the option that best completes the analogy.\n<div>EK : MS :: FP : ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "ND",
+            "image": ""
+          },
+          {
+            "text": "NL",
+            "image": ""
+          },
+          {
+            "text": "NX",
+            "image": ""
+          },
+          {
+            "text": "NT",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "वह विकल्प ज्ञात कीजिए जो सादृश्य को सर्वोत्तम रूप से पूरा करता है।\n<div>EK : MS :: FP : ?</div>",
+        "_aimcq_question_content_hi": "वह विकल्प ज्ञात कीजिए जो सादृश्य को सर्वोत्तम रूप से पूरा करता है।\n<div>EK : MS :: FP : ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "ND",
+            "image": ""
+          },
+          {
+            "text": "NL",
+            "image": ""
+          },
+          {
+            "text": "NX",
+            "image": ""
+          },
+          {
+            "text": "NT",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1015,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "<div>In each of the following questions, the second word is formed by rearranging the letters of the first word according to a specific pattern. Apply the same pattern to the third word to determine the correct answer from the given alternatives. </div><div>NUMBER : UNBMRE :: GHOSTS : ?</div>",
+      "post_title": "<div>In each of the following questions, the second word is formed by rearranging the letters of the first word according to a specific pattern. Apply the same pattern to the third word to determine the correct answer from the given alternatives. </div><div>NUMBER : UNBMRE :: GHOSTS : ?</div>",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "HGOSTS",
+            "image": ""
+          },
+          {
+            "text": "HOGSTS",
+            "image": ""
+          },
+          {
+            "text": "HGSOST",
+            "image": ""
+          },
+          {
+            "text": "HGSOTS",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "<div>निम्नलिखित प्रत्येक प्रश्न में, पहले शब्द के अक्षरों को एक विशिष्ट पैटर्न के अनुसार पुनर्व्यवस्थित करके दूसरा शब्द बनाया गया है। दिए गए विकल्पों में से सही उत्तर जानने के लिए तीसरे शब्द पर भी यही पैटर्न लागू कीजिए। </div><div>NUMBER : UNBMRE :: GHOSTS : ?</div>",
+        "_aimcq_question_content_hi": "<div>निम्नलिखित प्रत्येक प्रश्न में, पहले शब्द के अक्षरों को एक विशिष्ट पैटर्न के अनुसार पुनर्व्यवस्थित करके दूसरा शब्द बनाया गया है। दिए गए विकल्पों में से सही उत्तर जानने के लिए तीसरे शब्द पर भी यही पैटर्न लागू कीजिए। </div><div>NUMBER : UNBMRE :: GHOSTS : ?</div>",
+        "_aimcq_options_hi": [
+          {
+            "text": "HGOSTS",
+            "image": ""
+          },
+          {
+            "text": "HOGSTS",
+            "image": ""
+          },
+          {
+            "text": "HGSOST",
+            "image": ""
+          },
+          {
+            "text": "HGSOTS",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1016,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Introducing a boy, a girl said, \"He is the son of my mother's only son.\" Who is the boy to the girl?",
+      "post_title": "Blood Relation: Introducing a boy...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Brother",
+            "image": ""
+          },
+          {
+            "text": "Son",
+            "image": ""
+          },
+          {
+            "text": "Nephew",
+            "image": ""
+          },
+          {
+            "text": "Cousin",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "एक लड़के का परिचय देते हुए...",
+        "_aimcq_question_content_hi": "एक लड़के का परिचय देते हुए, एक लड़की ने कहा, \"वह मेरी माँ के इकलौते बेटे का बेटा है।\" लड़‌का लड़‌की का कौन है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भाई",
+            "image": ""
+          },
+          {
+            "text": "बेटा",
+            "image": ""
+          },
+          {
+            "text": "भतीजा",
+            "image": ""
+          },
+          {
+            "text": "चचेरा",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1017,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "One number doesn't match this factorial series: 2, 6, 24, 120, 720, 1000",
+      "post_title": "Factorial series odd one out...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "6",
+            "image": ""
+          },
+          {
+            "text": "24",
+            "image": ""
+          },
+          {
+            "text": "1000",
+            "image": ""
+          },
+          {
+            "text": "120",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "क्रमगुणित श्रृंखला में बेजोड़...",
+        "_aimcq_question_content_hi": "एक संख्या इस क्रमगुणित श्रृंखला से मेल नहीं खाती: 2, 6, 24, 120, 720, 1000",
+        "_aimcq_options_hi": [
+          {
+            "text": "6",
+            "image": ""
+          },
+          {
+            "text": "24",
+            "image": ""
+          },
+          {
+            "text": "1000",
+            "image": ""
+          },
+          {
+            "text": "120",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1018,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Which number set is different?: (11, 22, 44), (13, 26, 52), (15, 30, 60), (14, 28, 43)",
+      "post_title": "Which number set is different?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "(11, 22, 44)",
+            "image": ""
+          },
+          {
+            "text": "(13, 26, 52)",
+            "image": ""
+          },
+          {
+            "text": "(15, 30, 60)",
+            "image": ""
+          },
+          {
+            "text": "(14, 28, 43)",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "कौन सा संख्या समूह अलग है?",
+        "_aimcq_question_content_hi": "कौन सा संख्या समूह अलग है? (11, 22, 44), (13, 26, 52), (15, 30, 60), (14, 28, 43)",
+        "_aimcq_options_hi": [
+          {
+            "text": "(11,22,44)",
+            "image": ""
+          },
+          {
+            "text": "(13,26,52)",
+            "image": ""
+          },
+          {
+            "text": "(15,30,60)",
+            "image": ""
+          },
+          {
+            "text": "(14,28,43)",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1019,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "If WRITE is coded as YTKVG, how is READ coded?",
+      "post_title": "WRITE is coded as YTKVG...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "TGCF",
+            "image": ""
+          },
+          {
+            "text": "ZTCF",
+            "image": ""
+          },
+          {
+            "text": "YTDF",
+            "image": ""
+          },
+          {
+            "text": "YTCF",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "WRITE को YTKVG लिखा जाता है...",
+        "_aimcq_question_content_hi": "यदि WRITE को YTKVG लिखा जाता है, तो READ को किस प्रकार लिखा जाएगा?",
+        "_aimcq_options_hi": [
+          {
+            "text": "TGCF",
+            "image": ""
+          },
+          {
+            "text": "ZTCF",
+            "image": ""
+          },
+          {
+            "text": "YTDF",
+            "image": ""
+          },
+          {
+            "text": "YTCF",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1020,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "If 5 # 3 = 19 and 7 # 2 = 17, what is 9 # 1 ?",
+      "post_title": "If 5 # 3 = 19 and 7 # 2 = 17, what is 9 # 1 ?",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "12",
+            "image": ""
+          },
+          {
+            "text": "10",
+            "image": ""
+          },
+          {
+            "text": "8",
+            "image": ""
+          },
+          {
+            "text": "11",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "यदि 5 # 3 = 19 और 7 # 2 = 17, तो 9 # 1 क्या है?",
+        "_aimcq_question_content_hi": "यदि 5 # 3 = 19 और 7 # 2 = 17, तो 9 # 1 क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "12",
+            "image": ""
+          },
+          {
+            "text": "10",
+            "image": ""
+          },
+          {
+            "text": "8",
+            "image": ""
+          },
+          {
+            "text": "11",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ],
+        "_aimcq_explanation_hi": ""
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1021,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "A 60 L mixture has a milk-water ratio of 7:3. How much water to add to make the ratio 1:1?",
+      "post_title": "Mixture Ratio: 60L milk-water...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "18 L",
+            "image": ""
+          },
+          {
+            "text": "20 L",
+            "image": ""
+          },
+          {
+            "text": "22 L",
+            "image": ""
+          },
+          {
+            "text": "24 L",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "60 लीटर के मिश्रण में...",
+        "_aimcq_question_content_hi": "60 लीटर के मिश्रण में दूध-पानी का अनुपात 7:3 है। अनुपात 1:1 करने के लिए कितना पानी मिलाना चाहिए?",
+        "_aimcq_options_hi": [
+          {
+            "text": "18 लीटर",
+            "image": ""
+          },
+          {
+            "text": "20 लीटर",
+            "image": ""
+          },
+          {
+            "text": "22 लीटर",
+            "image": ""
+          },
+          {
+            "text": "24 लीटर",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          3
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1022,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Pointing to a girl, Aryan said, \"She is the daughter of the only child of my grandmother.\" How is the girl related to Aryan?",
+      "post_title": "Blood Relation: Pointing to a girl...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Niece",
+            "image": ""
+          },
+          {
+            "text": "Cousin",
+            "image": ""
+          },
+          {
+            "text": "Sister",
+            "image": ""
+          },
+          {
+            "text": "Aunt",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "एक लड़‌की की ओर इशारा करते हुए...",
+        "_aimcq_question_content_hi": "एक लड़‌की की ओर इशारा करते हुए आर्यन ने कहा, \"वह मेरी दादी की इकलौती संतान की बेटी है।\" वह लड़की आर्यन से किस प्रकार संबंधित है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भतीजी",
+            "image": ""
+          },
+          {
+            "text": "चचेरा",
+            "image": ""
+          },
+          {
+            "text": "बहन",
+            "image": ""
+          },
+          {
+            "text": "चाची",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1023,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "Ramesh says, \"The boy playing football is the younger of the two sons of my father's wife.\" How is the boy related to Ramesh?",
+      "post_title": "Blood Relation: Ramesh says...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "Brother",
+            "image": ""
+          },
+          {
+            "text": "Stepbrother",
+            "image": ""
+          },
+          {
+            "text": "Cousin",
+            "image": ""
+          },
+          {
+            "text": "Nephew",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "रमेश कहता है, \"फुटबॉल खेलने वाला...",
+        "_aimcq_question_content_hi": "रमेश कहता है, \"फुटबॉल खेलने वाला लड़का मेरे पिता की पत्नी के दो बेटों में से छोटा है।\" वह लड़‌का रमेश से किस प्रकार संबंधित है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "भाई",
+            "image": ""
+          },
+          {
+            "text": "सौतेला भाई",
+            "image": ""
+          },
+          {
+            "text": "चचेरा",
+            "image": ""
+          },
+          {
+            "text": "भतीजा",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1024,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "If 11/19 = A and 2/9 = B, then what is A - B?",
+      "post_title": "If 11/19 = A and 2/9 = B...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "0.36",
+            "image": ""
+          },
+          {
+            "text": "0.56",
+            "image": ""
+          },
+          {
+            "text": "0.76",
+            "image": ""
+          },
+          {
+            "text": "0.6",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "यदि 11/19 A और 2/9 B है...",
+        "_aimcq_question_content_hi": "यदि 11/19 = A और 2/9 = B है, तो A - B क्या है?",
+        "_aimcq_options_hi": [
+          {
+            "text": "0.36",
+            "image": ""
+          },
+          {
+            "text": "0.56",
+            "image": ""
+          },
+          {
+            "text": "0.76",
+            "image": ""
+          },
+          {
+            "text": "0.6",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          0
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    },
+    {
+      "id": 1025,
+      "post_author": 1,
+      "post_date": "2026-05-09 11:39:00",
+      "post_content": "If the sum of 35 and 46 is multiplied by 2, what is the result?",
+      "post_title": "Sum of 35 and 46 multiplied by 2...",
+      "post_status": "publish",
+      "post_type": "question",
+      "meta_input": {
+        "_aimcq_seo_robots": "noindex,nofollow",
+        "_aimcq_options": [
+          {
+            "text": "158",
+            "image": ""
+          },
+          {
+            "text": "160",
+            "image": ""
+          },
+          {
+            "text": "162",
+            "image": ""
+          },
+          {
+            "text": "164",
+            "image": ""
+          }
+        ],
+        "_aimcq_explanation": "",
+        "_aimcq_title_hi": "यदि 35 और 46 के योग को...",
+        "_aimcq_question_content_hi": "यदि 35 और 46 के योग को 2 से गुणा किया जाए तो परिणाम क्या होगा?",
+        "_aimcq_options_hi": [
+          {
+            "text": "158",
+            "image": ""
+          },
+          {
+            "text": "160",
+            "image": ""
+          },
+          {
+            "text": "162",
+            "image": ""
+          },
+          {
+            "text": "164",
+            "image": ""
+          }
+        ],
+        "_aimcq_correct_answers": [
+          2
+        ]
+      },
+      "taxonomies": {
+        "topic": [
+          "general-intelligence-gi"
+        ]
+      },
+      "embedded_media": []
+    }
+  ]
+}
