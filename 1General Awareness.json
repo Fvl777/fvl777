@@ -136,8 +136,8 @@
       "id": 28,
       "post_author": 1,
       "post_date": "2025-09-12 09:00:00",
-      "post_content": "<p>Fill in the blanks:<br>In Carnatic music, a laghu with five beats is known as ___ jaati.</p>",
-      "post_title": "<p>Fill in the blanks:<br>In Carnatic music, a laghu with five beats is known as ___ jaati.</p>",
+      "post_content": "<p>Fill in the blanks:<br>In Carnatic music, a laghu with five beats is known as ___ jaati.</p><img class=\"aimcq-question-image\" src=\"https://cdn.jsdelivr.net/gh/Fvl777/aimcqsimg@main/phyimg/mcq-fig-q-1779759854099.webp\" width=\"360\" height=\"128\" style=\"width:360px;height:128px;max-width:100%;margin:10px 0;border-radius:4px;\">",
+      "post_title": "Fill in the blanks: In Carnatic music, a laghu with five beats is known as ___ jaati.",
       "post_status": "publish",
       "post_type": "question",
       "meta_input": {
@@ -162,7 +162,7 @@
         ],
         "_aimcq_explanation": "",
         "_aimcq_title_hi": "<p>रिक्त स्थान भरें:<br>कर्नाटक संगीत में, पाँच ताल वाले लघु को ___ जाति के नाम से जाना जाता है।</p>",
-        "_aimcq_question_content_hi": "<p>रिक्त स्थान भरें:<br>कर्नाटक संगीत में, पाँच ताल वाले लघु को ___ जाति के नाम से जाना जाता है।</p>",
+        "_aimcq_question_content_hi": "<p>रिक्त स्थान भरें:<br>कर्नाटक संगीत में, पाँच ताल वाले लघु को ___ जाति के नाम से जाना जाता है।</p><img class=\"aimcq-question-image\" src=\"https://cdn.jsdelivr.net/gh/Fvl777/aimcqsimg@main/phyimg/mcq-fig-q-1779759854099.webp\" width=\"360\" height=\"128\" style=\"width:360px;height:128px;max-width:100%;margin:10px 0;border-radius:4px;\">",
         "_aimcq_options_hi": [
           {
             "text": "तिशरा",
@@ -184,7 +184,9 @@
         "_aimcq_explanation_hi": "",
         "_aimcq_correct_answers": [
           2
-        ]
+        ],
+        "_aimcq_image_width": "360",
+        "_aimcq_image_height": "128"
       },
       "taxonomies": {
         "topic": [
